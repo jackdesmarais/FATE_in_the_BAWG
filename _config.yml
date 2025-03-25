@@ -10,5 +10,5 @@ aux_links:
 collections_dir: my_collections
 
 collections:
-  - name: "Locations"
+  locations:
     output: true
