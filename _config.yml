@@ -6,3 +6,9 @@ url: https://jackdesmarais.github.io/FATE_in_the_BAWG/
 
 aux_links:
   Template Repository: https://github.com/jackdesmarais/FATE_in_the_BAWG
+
+collections_dir: my_collections
+
+collections:
+  - name: "Locations"
+    output: true
