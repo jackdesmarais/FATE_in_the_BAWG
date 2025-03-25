@@ -1,7 +1,7 @@
 ---
 title: Aeol
 layout: default
-
+parent: Locations
 ---
 
 # Aeol
