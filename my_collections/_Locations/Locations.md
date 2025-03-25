@@ -1,6 +1,7 @@
 ---
 title: Locations
 layout: default
+parent: Home
 ---
 
 # Locations
