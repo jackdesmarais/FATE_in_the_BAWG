@@ -51,4 +51,4 @@ Corruption \[1] \[2] \[3]
 
 ## Other notes
 1. Age: 22
-2. Birth place: [Windy Gate](../locations/Windy_gate.md)
+2. Birth place: [Windy Gate](/FATE_in_the_BAWG/locations/Windy_gate.md)
