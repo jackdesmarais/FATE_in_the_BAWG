@@ -5,7 +5,7 @@ parent: Subsystems
 ---
 
 # Channeling
-This is the major magic system for the campaign. It is a free-form system based on the idea of channeling energy from a conceptual realm into the world. Th
+This is the major magic system for the campaign. It is a free-form system based on the idea of channeling energy from a conceptual realm into the world.
 
 ## Permissions
 Have an aspect that reflects your connection to a spiritual realm
