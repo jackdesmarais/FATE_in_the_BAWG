@@ -7,5 +7,5 @@ parent: NPCs
 # Grom the'Dilf
 
 ## Aspects
-**Silver fox librarian**
+**Silver fox librarian** \
 **Gatherer of stories**

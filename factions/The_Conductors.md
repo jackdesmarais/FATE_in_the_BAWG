@@ -8,5 +8,5 @@ parent: Factions
 The cyborg conductors that manage the actual day to day on transit operations of the world wide public transit system.
 
 # Aspects
-**Cyborg conductor**
+**Cyborg conductor** \
 **I love trains**
