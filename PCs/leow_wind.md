@@ -53,4 +53,4 @@ Corruption \[1] \[2] \[3]
 
 ## Other notes
 1. Age: 16
-2. Birth place: [Aeol](/locations/Aeol.md)
+2. Birth place: [Aeol](FATE_in_the_BAWG/locations/Aeol.md)

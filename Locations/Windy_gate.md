@@ -5,7 +5,7 @@ parent: The Spires
 ---
 
 # Windy Gate
-A small mostly residential outer borough in [The Spires](/locations/the_spires.md) of [Aeol](/locations/Aeol.md).
+A small mostly residential outer borough in [The Spires](FATE_in_the_BAWG/locations/the_spires.md) of [Aeol](FATE_in_the_BAWG/locations/Aeol.md).
 
 # Aspects
 **Good currents for flying** \
