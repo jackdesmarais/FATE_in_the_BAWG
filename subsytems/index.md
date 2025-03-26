@@ -1,7 +1,6 @@
 ---
 title: Subsystems
 layout: default
-parent: Home
 ---
 
 # Subsystems
