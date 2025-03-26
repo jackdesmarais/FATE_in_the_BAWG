@@ -1,0 +1,8 @@
+---
+title: Getries Greens
+layout: default
+parent: Windy Gate
+---
+
+# Description
+4 story vertical hydroponic farm specializing in lettuces and cabbages. Overlooking a market bazaar. The cabbages are lovingly hand shaped and serenaded with death metal to firm them up. Well regarded for increasing stamina and keeping you regular. Now the site of a large public art installation/dragon deterrent of reinforced vines, jelly beans, and explosives.

@@ -1,0 +1,54 @@
+---
+title: Lawrel Sundew
+layout: default
+parent: PCs
+player: 
+---
+
+# Aspects
+1. High Concept: **16 year old sweetheart w/a gift for explosives**
+2. Trouble: **Feels a constant need to prove himself**
+3. Goal: **To find home/family (not literal)**
+4. Connections: **This group of girls welcomed him in when he felt like nobody else did**
+5. Wild Card: **--------------** (Secret)
+# Stunts
+1. When emotions are high, channeling replaces craft
+2. When someone recognizes me, reputation replaces provoke
+3. (When someone recognizes me, reputation replaces rapport)
+# Stress/consequences
+Physical \[1] \[2]
+Mental \[1] \[2]
+Corruption \[1] \[2] \[3]
+
++2 mild:
++4 Moderate:
++6 Severe: 
+
+# Skills
+
+| Mod | Skill                                                                                                                 |
+| --- | --------------------------------------------------------------------------------------------------------------------- |
+| +4  | Channeling (using your magic)                                                                                         |
+| +3  | Lore (knowing things about the world)                                                                                 |
+| +3  | Reputation (replaces resources- how much you’re able to get objects)                                                  |
+| +2  | Investigate (active noticing/looking for something)                                                                   |
+| +2  | Crafts (building things)                                                                                              |
+| +2  | Grounding (resisting corruption)                                                                                      |
+| +1  | Athletics (dextrous, run fast, jump high)                                                                             |
+| +1  | Contacts (knowing the right person)                                                                                   |
+| +1  | Empathy (like insight, seeing through lies, understanding others internal feelings)                                   |
+| +1  | Rapport (trying to schmooze someone)                                                                                  |
+| +0  | Burglary (larceny- mental and physical aspects)                                                                       |
+| +0  | Deceive (lying)                                                                                                       |
+| +0  | Fly (generic piloting skill)                                                                                          |
+| +0  | Fight (physical violence)                                                                                             |
+| +0  | Notice (passive noticing)                                                                                             |
+| +0  | Physique (being strong)                                                                                               |
+| +0  | Provoke (trying to influence someone else’s emotions)                                                                 |
+| +0  | Shoot (ability to throw something at someone)                                                                         |
+| +0  | Stealth (being sneaky)                                                                                                |
+| +0  | Will (mental equivalent of physique, directly resist things that would grind you down mentally, lot of mental stress) |
+
+# Other notes
+1. Age: 16
+2. Birth place: [Aeol](/locations/Aeol.md)
