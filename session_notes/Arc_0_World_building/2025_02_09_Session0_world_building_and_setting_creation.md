@@ -20,6 +20,7 @@ date: 2025-02-10
 We used a *slight* modification of the "A Spark In FATE Core" setting creation workbook to build out the setting. 
 
 ## Media inspiration
+
 | Player                   | Media                                       |
 | ------------------------ | ------------------------------------------- |
 | [[Jack Desmarais\|Jack]] | Malazan Book of the Fallen                  |
@@ -36,6 +37,7 @@ We used a *slight* modification of the "A Spark In FATE Core" setting creation w
 5. Stylistic powers not spells
 
 ## Genre/Scale
+
 | Category | Description                             |
 | -------- | --------------------------------------- |
 | Genre    | Steampunk                               |
@@ -45,7 +47,7 @@ We used a *slight* modification of the "A Spark In FATE Core" setting creation w
 
 ## Facts
 1. There is great public transit, but it only works in the sky and the surface not underground (Which is extensive)
-2. People in [[The Depths]] are outcasts with their own community
+2. People in [The Depths](/FATE_in_the_BAWG/locations/The_Depths.html) are outcasts with their own community
 3. World view is hopeful and people are generally good, but there is corruption
 4. The economy is non-monetized
 5. The population is focused in large urban centers separated by large areas of diverse wilderness
@@ -63,17 +65,17 @@ Bubblegum Administrative World Governance (BAWG): Technicolor steampunk
 
 ## Sparks/issues
 ### Legacy issue
-**Conflicting narratives of [The Depths](/FATE_in_the_BAWG/locations/The_Depths.html)** 
+**Conflicting narratives of [The Depths](/FATE_in_the_BAWG/locations/The_Depths.html)**  \
 There are conflicting stories about how the inhabitants of [The Depths](/FATE_in_the_BAWG/locations/The_Depths.html) became outcasts who live below the city
 #### Faces
-[Grom the'Dilf](/FATE_in_the_BAWG/characters/Grom_the_Dilf.html)
+[Grom the'Dilf](/FATE_in_the_BAWG/characters/Grom_the_Dilf.html) \
 [Lady Lacwáhhh](/FATE_in_the_BAWG/characters/Lady_Lacwáhhh.html)
 ### Current issue
-**[Windy Gate](/FATE_in_the_BAWG/locations/Windy_gate.html)'s got 9,000 problems and tiny [Dragons](/FATE_in_the_BAWG/creatures/Dragons.html) are all of them**
+**[Windy Gate](/FATE_in_the_BAWG/locations/Windy_gate.html)'s got 9,000 problems and tiny [Dragons](/FATE_in_the_BAWG/creatures/Dragons.html) are all of them** \
 [Windy Gate](/FATE_in_the_BAWG/locations/Windy_gate.html) is suffering an infestation of dragons! They're causing all sorts of issues and getting glitter everywhere!
 
 ### Future issue
-**Something sus with the public transport**
+**Something sus with the public transport** \
 There are scattered reports of delays in the public transit system.
 #### Faces
 [The Conductors](/FATE_in_the_BAWG/factions/The_Conductors.html)

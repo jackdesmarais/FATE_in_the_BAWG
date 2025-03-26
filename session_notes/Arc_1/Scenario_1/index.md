@@ -23,7 +23,7 @@ players:
 ## Game aspects
 **Conflicting narratives of [the depths](/FATE_in_the_BAWG/locations/The_Depths.html)** \
 **Something sus with public transport** \
-**[Windy Gate](/FATE_in_the_BAWG/locations/Windy_gate.html) has 99000 problems and tiny dragons are all of them** \
+**[Windy Gate](/FATE_in_the_BAWG/locations/Windy_gate.html) has 99000 problems and tiny dragons are all of them** 
 
 ## Objectives
 - [ ] Figure out where the [dragons](/FATE_in_the_BAWG/creatures/Dragons.html) are coming from
