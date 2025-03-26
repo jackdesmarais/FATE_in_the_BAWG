@@ -20,8 +20,7 @@ player:
 ## Stress/consequences
 Physical \[1] \[2] \
 Mental \[1] \[2] \
-Corruption \[1] \[2] \[3]
-
+Corruption \[1] \[2] \[3] \
 +2 mild: \
 +4 Moderate: \
 +6 Severe: 
