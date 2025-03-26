@@ -15,9 +15,9 @@ Charecters that operate at a base scale of +2 or higher generally use approaches
 Charecters that that operate at a base scale of +4 or higher are treated as an entire reagion instead of a map. They generally use rated aspects instead of approaches. With 1 map per aspect and a set of approaches for that map cascading down from that rating.
 
 ## Inspiration
-Iron Edda: Iron and Bone
-Iron Edda: Accelerated
-[FATE: VLM](https://evilhat.com/wp-content/uploads/2022/04/Giant-Monsters.pdf)
-Dresden Files: Accelerated
+Iron Edda: Iron and Bone \
+Iron Edda: Accelerated \
+[FATE: VLM](https://evilhat.com/wp-content/uploads/2022/04/Giant-Monsters.pdf) \
+Dresden Files: Accelerated \
 [Approaches as Scale](https://fate-srd.com/fate-codex/approaches-scale-how-go-big-fate)
 

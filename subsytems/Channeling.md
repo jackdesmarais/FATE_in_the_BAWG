@@ -20,8 +20,8 @@ You can summon parts of your realm into the world. This is generally a less than
 If the [Spiritual realms](/FATE_in_the_BAWG/locations/Spiritual_realms.html) you connect to hasn't been described yet make it.
 
 ### Inspiration
-Evocation from Dresden file Accelerated
-Stormcalling from FATE System toolkit
-Grisha from Grishaverse novels
-Benders from Avatar
+Evocation from Dresden file Accelerated \
+Stormcalling from FATE System toolkit \
+Grisha from Grishaverse novels \
+Benders from Avatar \
 Mages from Malazan
