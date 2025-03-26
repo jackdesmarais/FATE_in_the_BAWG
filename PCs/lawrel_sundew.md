@@ -4,27 +4,29 @@ layout: default
 parent: PCs
 player: 
 ---
-
-# Aspects
+# Lawrel Sundew
+## Aspects
 1. High Concept: **Rebellious apprentice bog witch**
 2. Trouble: **Bog family obligation**
 3. Goal: **I want to make a name for myself outside of my family and the bog**
 4. Connections: **This group strengthens my magic**
 5. Wild Card: **trained in Bawg Maga**
-# Stunts
+
+## Stunts
 1. When encountering a magical effect can use notice instead of investigation to learn more 
 2. When directly next to group member +2 to channeling 
 3. When someone knows the bog +2 to reputation
-# Stress/consequences
+
+## Stress/consequences
 Physical \[1] \[2] \[3]
 Mental \[1] \[2] \[3]
 Corruption \[1] \[2] \[3]
 
-+2 mild:
-+4 Moderate:
++2 mild: \
++4 Moderate: \
 +6 Severe: 
 
-# Skills
+## Skills
 
 | mod | skill                                                                                                                 |
 | --- | --------------------------------------------------------------------------------------------------------------------- |
@@ -48,5 +50,6 @@ Corruption \[1] \[2] \[3]
 |     | Provoke (trying to influence someone else’s emotions)                                                                 |
 |     | Rapport (trying to schmooze someone)                                                                                  |
 |     | Reputation (replaces resources- how much you’re able to get objects)                                                  |
-# Other notes
+
+## Other notes
 1. Birth place: The Bog city

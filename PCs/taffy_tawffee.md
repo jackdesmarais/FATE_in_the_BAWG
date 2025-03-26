@@ -1,28 +1,30 @@
 ---
-title: Lawrel Sundew
+title: Taffy Tawffee
 layout: default
 parent: PCs
 player: 
 ---
-# Aspects
+# Taffy Tawffee
+## Aspects
 
 1. High Concept: **Local candy shop owner who just wants everyone to be happy, eat candy, and BE SAFE.**
 2. Trouble: **Risk-averse due to childhood trauma in which her friends died in increasingly whimsical ways during a tour of a chocolate factory.**
 3. Goal: **Wants to avenge friends’ deaths by finding and punishing the owner of the chocolate factory.**
 4. Connections: **Sees that each of the members of the group is uncertain or feels out of place in some way, and she knows that leads to risky behavior, so she wants to keep them safe from the fate that befell her friends.**
 5. Wild Card: **Pulls from the magic realm to do candy magic.**
-# Stunts
-1. If she has met the person at least once before, she can use reputation instead of empathy.
-# Stress/consequences
-Physical \[1] \[2] \[3]
-Mental \[1] \[2] \[3]
-Corruption \[1] \[2] \[3]
 
-+2 mild:
-+4 Moderate:
+## Stunts
+1. If she has met the person at least once before, she can use reputation instead of empathy.
+## Stress/consequences
+Physical \[1] \[2] \[3] \
+Mental \[1] \[2] \[3] \
+Corruption \[1] \[2] \[3] 
+
++2 mild: \
++4 Moderate: \
 +6 Severe: 
 
-# Skills
+## Skills
 
 | Mod | Skill                                                                                                                 |
 | --- | --------------------------------------------------------------------------------------------------------------------- |
@@ -48,4 +50,4 @@ Corruption \[1] \[2] \[3]
 | +0  | Shoot (ability to throw something at someone)                                                                         |
 
 
-# Other notes
+## Other notes

@@ -1,30 +1,32 @@
 ---
-title: Lawrel Sundew
+title: Leow Wind
 layout: default
 parent: PCs
 player: 
 ---
 
-# Aspects
+# Leow Wind
+## Aspects
 1. High Concept: **16 year old sweetheart w/a gift for explosives**
 2. Trouble: **Feels a constant need to prove himself**
 3. Goal: **To find home/family (not literal)**
 4. Connections: **This group of girls welcomed him in when he felt like nobody else did**
 5. Wild Card: **--------------** (Secret)
-# Stunts
+
+## Stunts
 1. When emotions are high, channeling replaces craft
 2. When someone recognizes me, reputation replaces provoke
 3. (When someone recognizes me, reputation replaces rapport)
-# Stress/consequences
-Physical \[1] \[2]
-Mental \[1] \[2]
+## Stress/consequences
+Physical \[1] \[2] \
+Mental \[1] \[2] \
 Corruption \[1] \[2] \[3]
 
-+2 mild:
-+4 Moderate:
++2 mild: \
++4 Moderate: \
 +6 Severe: 
 
-# Skills
+## Skills
 
 | Mod | Skill                                                                                                                 |
 | --- | --------------------------------------------------------------------------------------------------------------------- |
@@ -49,6 +51,6 @@ Corruption \[1] \[2] \[3]
 | +0  | Stealth (being sneaky)                                                                                                |
 | +0  | Will (mental equivalent of physique, directly resist things that would grind you down mentally, lot of mental stress) |
 
-# Other notes
+## Other notes
 1. Age: 16
 2. Birth place: [Aeol](/locations/Aeol.md)

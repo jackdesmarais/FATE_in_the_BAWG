@@ -4,24 +4,27 @@ layout: default
 parent: PCs
 player: 
 ---
-# Aspects
+# Awnna Breeze
+## Aspects
 1. High Concept: **Magic user who intuitively connects to manmade/created things and can enhance her functions without thought**
 2. Trouble: **Doubts her abilities when others are relying on her**
 3. Goal: **Wants to learn to create things**
 4. Connections: **Everyone is creative and she feels drawn to it/inspired by them**
 5. Wild Card: **Has a pet dragon named Isu that she can communicate with/understand**
-# Stunts
-1. If Isu is nearby, take no corruption the first time in a scene in which corruption would be taken for an action
-# Stress/consequences
-Physical \[1] \[2] \[3]
-Mental \[1] \[2] \[3]
-Corruption \[1] \[2] \[3]
 
-+2 mild:
-+4 Moderate:
+## Stunts
+1. If Isu is nearby, take no corruption the first time in a scene in which corruption would be taken for an action
+
+## Stress/consequences
+Physical \[1] \[2] \[3] \
+Mental \[1] \[2] \[3] \
+Corruption \[1] \[2] \[3] 
+
++2 mild: \
++4 Moderate: \
 +6 Severe: 
 
-# Skills
+## Skills
 
 | mod | skill                                                                                                                 |
 | --- | --------------------------------------------------------------------------------------------------------------------- |
@@ -45,6 +48,7 @@ Corruption \[1] \[2] \[3]
 |     | Fly (generic piloting skill)                                                                                          |
 |     | Provoke (trying to influence someone else’s emotions)                                                                 |
 |     | Rapport (trying to schmooze someone)                                                                                  |
-# Other notes
+
+## Other notes
 1. Age: 22
 2. Birth place: [Windy Gate](/locations/Windy_gate.md)

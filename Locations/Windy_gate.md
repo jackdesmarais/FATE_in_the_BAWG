@@ -4,7 +4,7 @@ layout: default
 parent: The Spires
 ---
 
-# Description
+# Windy Gate
 A small mostly residential outer borough in [The Spires](/locations/the_spires.md) of [Aeol](/locations/Aeol.md).
 
 # Aspects
