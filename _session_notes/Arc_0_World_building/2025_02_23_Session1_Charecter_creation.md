@@ -3,16 +3,16 @@ title: 2025_02_23_Session1_Charecter_creation
 layout: default
 parent: Arc 0 World Building
 players:
-  name: "Jack"
-    character: "GM"
-  name: "Jana"
-    character: "Leow Wind"
-  name: "Ava"
-    character: "Awnna Breeze"
-  name: "Talia"
-    character: "Taffy Tawfee"
-  name: "Sarah"
-    character: "Lawrel Sundew"
+- name: "Jack"
+  character: "GM"
+- name: "Jana"
+  character: "Leow Wind"
+- name: "Ava"
+  character: "Awnna Breeze"
+- name: "Talia"
+  character: "Taffy Tawfee"
+- name: "Sarah"
+  character: "Lawrel Sundew"
 date: 2025-02-23
 ---
 
