@@ -19,11 +19,11 @@ We used a *slight* modification of the "A Spark In FATE Core" setting creation w
 
 | Player                   | Media                                       |
 | ------------------------ | ------------------------------------------- |
-| [[Jack Desmarais\|Jack]] | Malazan Book of the Fallen                  |
-| [[Talia Rosen\|Talia]]   | Wicked / Wizard of Oz                       |
-| [[Ava Hornblass\|Ava]]   | Balders Gate3 / Stormlight Archives         |
-| [[Sarah Beatty\|Sarah]]  | Throne of Glass / Avatar the Last Airbender |
-| [[Jana Desmarais\|Jana]] | Strange the Dreamer                         |
+| Jack | Malazan Book of the Fallen                  |
+| Talia | Wicked / Wizard of Oz                       |
+| Ava | Balders Gate3 / Stormlight Archives         |
+| Sarah | Throne of Glass / Avatar the Last Airbender |
+| Jana | Strange the Dreamer                         |
 
 ## Inspirations
 1. We want magic (and dragons)
