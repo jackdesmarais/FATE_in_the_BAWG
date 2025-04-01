@@ -7,6 +7,8 @@ url: https://jackdesmarais.github.io/FATE_in_the_BAWG/
 aux_links:
   Template Repository: https://github.com/jackdesmarais/FATE_in_the_BAWG
 
+favicon_ico: "/gem-stone-emoji-clipart-lg.png"
+
 collections:
   creatures:
     permalink: "/:collection/:path.html"
