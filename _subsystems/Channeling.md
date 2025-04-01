@@ -14,9 +14,9 @@ Reduce your refresh by 1 (Waived for this campaign because it is part of the cam
 A skill slot
 
 ## Description
-You can summon parts of your realm into the world. This is generally a less than subtle art. Take a skill called channel \[realm]. You may use this skill for actions representing directly summoning your realm. You may also make rolls with other skills with narrative permission to use the stuff of your realm as part of the action. If you are performing an action where this ability directly aids you, you may take corruption to operate at +1 [Scale](/FATE_in_the_BAWG/subsytems/Scale.html).
+You can summon parts of your realm into the world. This is generally a less than subtle art. Take a skill called channel \[realm]. You may use this skill for actions representing directly summoning your realm. You may also make rolls with other skills with narrative permission to use the stuff of your realm as part of the action. If you are performing an action where this ability directly aids you, you may take corruption to operate at +1 [Scale](/FATE_in_the_BAWG/subsystems/Scale.html).
 
-If the [Spiritual realms](/FATE_in_the_BAWG/locations/Spiritual_realms.html) you connect to hasn't been described yet make it.
+If the [Spiritual realms](/FATE_in_the_BAWG/subsystems/Spiritual_realms.html) you connect to hasn't been described yet make it.
 
 ### Inspiration
 Evocation from Dresden file Accelerated \

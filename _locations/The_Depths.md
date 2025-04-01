@@ -1,7 +1,6 @@
 ---
 title: The Depths
 layout: default
-parent: Locations
 ---
 
 # The Depths
