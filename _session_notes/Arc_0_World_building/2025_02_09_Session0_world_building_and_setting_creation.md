@@ -64,8 +64,8 @@ Bubblegum Administrative World Governance (BAWG): Technicolor steampunk
 **Conflicting narratives of [The Depths](/FATE_in_the_BAWG/locations/The_Depths.html)**  \
 There are conflicting stories about how the inhabitants of [The Depths](/FATE_in_the_BAWG/locations/The_Depths.html) became outcasts who live below the city
 #### Faces
-[Grom the'Dilf](/FATE_in_the_BAWG/characters/Grom_the_Dilf.html) \
-[Lady Lacwáhhh](/FATE_in_the_BAWG/characters/Lady_Lacwáhhh.html)
+[Grom the'Dilf](/FATE_in_the_BAWG/NPCs/Grom_the_Dilf.html) \
+[Lady Lacwáhhh](/FATE_in_the_BAWG/NPCs/Lady_Lacwáhhh.html)
 ### Current issue
 **[Windy Gate](/FATE_in_the_BAWG/locations/Windy_gate.html)'s got 9,000 problems and tiny [Dragons](/FATE_in_the_BAWG/creatures/Dragons.html) are all of them** \
 [Windy Gate](/FATE_in_the_BAWG/locations/Windy_gate.html) is suffering an infestation of dragons! They're causing all sorts of issues and getting glitter everywhere!
