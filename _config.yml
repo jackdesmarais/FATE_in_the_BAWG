@@ -9,25 +9,25 @@ aux_links:
 
 collections:
   creatures:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:path.html"
     output: true
   factions:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:path.html"
     output: true
   locations:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:path.html"
     output: true
   NPCs:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:path.html"
     output: true
   PCs:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:path.html"
     output: true
   session_notes:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:path.html"
     output: true
   subsystems:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:path.html"
     output: true
 
 just_the_docs:
@@ -41,8 +41,8 @@ just_the_docs:
       search_exclude: false
     factions:
       name: Factions
-      nav_exclude: false
-      n av_fold: true
+      nav_exclude: True
+      nav_fold: true
       search_exclude: false
     locations:
       name: Locations
@@ -69,7 +69,7 @@ just_the_docs:
       nav_exclude: false
       nav_fold: true
       search_exclude: false
-      
+
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page."
