@@ -1,7 +1,6 @@
 ---
 title: Dragons
 layout: default
-parent: Creatures
 ---
 
 # Dragons

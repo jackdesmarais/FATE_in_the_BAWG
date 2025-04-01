@@ -1,7 +1,6 @@
 ---
 title: Dragonflies
 layout: default
-parent: Creatures
 ---
 
 # Dragonflies
