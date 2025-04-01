@@ -3,16 +3,16 @@ title: 2025_03_23_Session2_Clearing_Gerties_Greens
 layout: default
 parent: Scenario 1
 players:
-- name: "Jack"
-  character: "GM"
-- name: "Jana"
-  character: "Leow Wind"
-- name: "Ava"
-  character: "Awnna Breeze"
-- name: "Talia"
-  character: "Taffy Tawfee"
-- name: "Sarah"
-  character: "Lawrel Sundew"
+  name: "Jack"
+    character: "GM"
+  name: "Jana"
+    character: "Leow Wind"
+  name: "Ava"
+    character: "Awnna Breeze"
+  name: "Talia"
+    character: "Taffy Tawfee"
+  name: "Sarah"
+    character: "Lawrel Sundew"
 date: 2025-03-23
 ---
 

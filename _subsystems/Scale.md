@@ -1,7 +1,6 @@
 ---
 title: Scale
 layout: default
-parent: Subsystems
 ---
 
 # Scale

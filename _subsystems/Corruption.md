@@ -1,6 +1,7 @@
 ---
-parent: Subsystems
 title: Corruption
+layout: default
+
 ---
 
 # Corruption

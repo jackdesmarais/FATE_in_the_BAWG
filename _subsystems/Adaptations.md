@@ -1,7 +1,6 @@
 ---
 title: Adaptations
 layout: default
-parent: Subsystems
 ---
 
 # Adaptations

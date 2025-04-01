@@ -1,7 +1,6 @@
 ---
 title: Channeling
 layout: default
-parent: Subsystems
 ---
 
 # Channeling

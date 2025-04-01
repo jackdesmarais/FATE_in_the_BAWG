@@ -1,7 +1,6 @@
 ---
 title: Lady Lacwáhhh
 layout: default
-parent: NPCs
 ---
 
 # Lady Lacwáhhh

@@ -1,7 +1,6 @@
 ---
 title: Francie LaFerone
 layout: default
-parent: NPCs
 ---
 
 # Francie LaFerone

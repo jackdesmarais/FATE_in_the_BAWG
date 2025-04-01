@@ -1,8 +1,7 @@
 ---
 title: Awnna Breeze
 layout: default
-parent: PCs
-player: 
+player: Eva
 ---
 # Awnna Breeze
 ## Aspects

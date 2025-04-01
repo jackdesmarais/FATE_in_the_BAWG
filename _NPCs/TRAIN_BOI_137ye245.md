@@ -1,7 +1,6 @@
 ---
 title: Train_Boi_137ye245
 layout: default
-parent: NPCs
 ---
 
 # Train_Boi_137ye245

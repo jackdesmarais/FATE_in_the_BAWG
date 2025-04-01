@@ -1,8 +1,7 @@
 ---
 title: Lawrel Sundew
 layout: default
-parent: PCs
-player: 
+player: Sarah
 ---
 # Lawrel Sundew
 ## Aspects

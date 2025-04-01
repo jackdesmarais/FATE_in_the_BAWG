@@ -1,18 +1,17 @@
 ---
 title: Arc 1
 layout: default
-parent: Session Notes
 players:
-- name: "Jack"
-  character: "GM"
-- name: "Jana"
-  character: "Leow Wind"
-- name: "Ava"
-  character: "Awnna Breeze"
-- name: "Talia"
-  character: "Taffy Tawfee"
-- name: "Sarah"
-  character: "Lawrel Sundew"
+  name: "Jack"
+    character: "GM"
+  name: "Jana"
+    character: "Leow Wind"
+  name: "Ava"
+    character: "Awnna Breeze"
+  name: "Talia"
+    character: "Taffy Tawfee"
+  name: "Sarah"
+    character: "Lawrel Sundew"
 ---
 
 # Arc 1

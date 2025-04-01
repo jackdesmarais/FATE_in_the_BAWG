@@ -1,7 +1,6 @@
 ---
 title: Gertie Green
 layout: default
-parent: NPCs
 ---
 
 # Gertie Green

@@ -1,7 +1,6 @@
 ---
 title: Grom theDilf
 layout: default
-parent: NPCs
 ---
 
 # Grom the'Dilf

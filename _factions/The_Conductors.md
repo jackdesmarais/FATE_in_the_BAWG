@@ -1,7 +1,6 @@
 ---
 title: The Conductors
 layout: default
-parent: Factions
 ---
 
 # The Conductors

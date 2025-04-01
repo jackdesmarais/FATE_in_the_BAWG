@@ -1,7 +1,6 @@
 ---
 title: Jan Janson
 layout: default
-parent: NPCs
 ---
 
 # Jan Janson

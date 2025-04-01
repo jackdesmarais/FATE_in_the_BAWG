@@ -1,7 +1,6 @@
 ---
 title: Pulley Pullers
 layout: default
-parent: Factions
 ---
 
 # Pulley Pullers

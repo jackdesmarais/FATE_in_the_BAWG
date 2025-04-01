@@ -1,8 +1,7 @@
 ---
 title: Taffy Tawffee
 layout: default
-parent: PCs
-player: 
+player: Talia
 ---
 # Taffy Tawffee
 ## Aspects

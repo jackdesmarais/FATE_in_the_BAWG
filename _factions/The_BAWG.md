@@ -1,7 +1,6 @@
 ---
 title: The BAWG
 layout: default
-parent: Factions
 ---
 
 # The BAWG

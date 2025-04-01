@@ -1,7 +1,6 @@
 ---
 title: Heavy Hoisters
 layout: default
-parent: Factions
 ---
 
 # Heavy Hoisters

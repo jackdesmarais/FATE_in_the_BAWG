@@ -1,7 +1,6 @@
 ---
 title: Arc 0 World Building
 layout: default
-parent: Session Notes
 ---
 
 # Arc 0 World Building

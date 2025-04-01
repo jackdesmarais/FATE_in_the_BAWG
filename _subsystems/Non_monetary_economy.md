@@ -1,7 +1,6 @@
 ---
 title: Non-monetary Economy
 layout: default
-parent: Subsystems
 ---
 
 # Non-monetary Economy

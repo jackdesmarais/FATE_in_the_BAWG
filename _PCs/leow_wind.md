@@ -1,8 +1,7 @@
 ---
 title: Leow Wind
 layout: default
-parent: PCs
-player: 
+player: Jana
 ---
 
 # Leow Wind

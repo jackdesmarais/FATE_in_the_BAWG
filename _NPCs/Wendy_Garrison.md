@@ -1,7 +1,6 @@
 ---
 title: Wendy Garrison
 layout: default
-parent: NPCs
 ---
 
 # Wendy Garrison
