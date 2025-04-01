@@ -41,7 +41,7 @@ just_the_docs:
       search_exclude: false
     factions:
       name: Factions
-      nav_exclude: True
+      nav_exclude: False
       nav_fold: true
       search_exclude: false
     locations:
