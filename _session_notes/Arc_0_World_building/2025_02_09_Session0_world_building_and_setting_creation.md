@@ -3,16 +3,12 @@ title: 2025_02_09_Session0_world_building_and_setting_creation
 layout: default
 parent: Arc 0 World Building
 players:
-- name: "Jack"
-  character: "GM"
-- name: "Jana"
-  character: "???"
-- name: "Ava"
-  character: "???"
-- name: "Talia"
-  character: "???"
-- name: "Sarah"
-  character: "???"
+- name: Jack
+  character: GM
+- name: Jana
+- name: Ava
+- name: Talia
+- name: Sarah
 date: 2025-02-10
 ---
 
