@@ -7,6 +7,69 @@ url: https://jackdesmarais.github.io/FATE_in_the_BAWG/
 aux_links:
   Template Repository: https://github.com/jackdesmarais/FATE_in_the_BAWG
 
+collections:
+  creatures:
+    permalink: "/:collection/:path/"
+    output: true
+  factions:
+    permalink: "/:collection/:path/"
+    output: true
+  locations:
+    permalink: "/:collection/:path/"
+    output: true
+  NPCs:
+    permalink: "/:collection/:path/"
+    output: true
+  PCs:
+    permalink: "/:collection/:path/"
+    output: true
+  session_notes:
+    permalink: "/:collection/:path/"
+    output: true
+  subsystems:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    # Reference the "tests" collection
+    creatures:
+      name: Creatures
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false
+    factions:
+      name: Factions
+      nav_exclude: false
+      n av_fold: true
+      search_exclude: false
+    locations:
+      name: Locations
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false
+    NPCs:
+      name: NPCs
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false
+    PCs:
+      name: PCs
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false
+    session_notes:
+      name: Session Notes
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false
+    subsystems:
+      name: Subsystems
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false
+      
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page."
