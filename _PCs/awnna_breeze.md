@@ -5,7 +5,7 @@ player: Eva
 ---
 # Awnna Breeze
 
-![Awnna Breeze](/FATE_in_the_BAWG/assets/images/PCs/awnna_breeze_thumb.jpg){: width="200" }
+![Awnna Breeze](/FATE_in_the_BAWG/assets/images/PCs/awnna_breeze_image.jpg){: height="200" }
 
 ## Aspects
 1. High Concept: **Magic user who intuitively connects to manmade/created things and can enhance her functions without thought**
