@@ -4,6 +4,9 @@ layout: default
 player: Eva
 ---
 # Awnna Breeze
+
+![Awnna Breeze](/FATE_in_the_BAWG/assets/images/PCs/awnna_breeze_thumb.jpg){: width="200" }
+
 ## Aspects
 1. High Concept: **Magic user who intuitively connects to manmade/created things and can enhance her functions without thought**
 2. Trouble: **Doubts her abilities when others are relying on her**
@@ -26,26 +29,26 @@ Corruption \[1] \[2] \[3] \
 
 | mod | skill                                                                                                                 |
 | --- | --------------------------------------------------------------------------------------------------------------------- |
-| +4  | Fight (physical violence)                                                                                             |
-| +3  | Channeling (using your magic)                                                                                         |
-| +3  | Investigate (active noticing/looking for something)                                                                   |
+| +4  | Fly (generic piloting skill)                                                                                          |
+| +3  | Crafts (building things)                                                                                              |
+| +3  | Lore (knowing things about the world)                                                                                 |
 | +2  | Notice (passive noticing)                                                                                             |
-| +2  | Lore (knowing things about the world)                                                                                 |
-| +2  | Grounding (resisting corruption)                                                                                      |
-| +1  | Contacts (knowing the right person)                                                                                   |
-| +1  | Reputation (replaces resources- how much you’re able to get objects)                                                  |
+| +2  | Investigate (active noticing/looking for something)                                                                   |
+| +2  | Athletics (dextrous, run fast, jump high)                                                                             |
+| +1  | Grounding (resisting corruption)                                                                                      |
+| +1  | Reputation (replaces resources- how much you're able to get objects)                                                  |
 | +1  | Physique (being strong)                                                                                               |
 | +1  | Will (mental equivalent of physique, directly resist things that would grind you down mentally, lot of mental stress) |
-|     | Athletics (dextrous, run fast, jump high)                                                                             |
-|     | Empathy (like insight, seeing through lies, understanding others internal feelings)                                   |
-|     | Shoot (ability to throw something at someone)                                                                         |
-|     | Stealth (being sneaky)                                                                                                |
-|     | Burglary (larceny- mental and physical aspects)                                                                       |
-|     | Crafts (building things)                                                                                              |
-|     | Deceive (lying)                                                                                                       |
-|     | Fly (generic piloting skill)                                                                                          |
-|     | Provoke (trying to influence someone else’s emotions)                                                                 |
-|     | Rapport (trying to schmooze someone)                                                                                  |
+|     | Fight (physical violence)                                                           |
+|     | Channeling (using your magic)                                                       |
+|     | Contacts (knowing the right person)                                                 |
+|     | Empathy (like insight, seeing through lies, understanding others internal feelings) |
+|     | Shoot (ability to throw something at someone)                                       |
+|     | Stealth (being sneaky)                                                              |
+|     | Burglary (larceny- mental and physical aspects)                                     |
+|     | Deceive (lying)                                                                     |
+|     | Provoke (trying to influence someone else's emotions)                               |
+|     | Rapport (trying to schmooze someone)                                                |
 
 ## Other notes
 1. Age: 22
