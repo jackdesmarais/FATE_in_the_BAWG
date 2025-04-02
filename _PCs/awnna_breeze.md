@@ -5,7 +5,11 @@ player: Eva
 ---
 # Awnna Breeze
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="flex: 0 0 200px;">
 <img src="/FATE_in_the_BAWG/assets/images/PCs/awnna_breeze_image.jpg" alt="A tattoo'd woman with black hair and coveralls holding a large wrench" width="200"/>
+</div>
+<div style="flex: 1; min-width: 300px;">
 
 ## Aspects
 1. High Concept: **Magic user who intuitively connects to manmade/created things and can enhance her functions without thought**
@@ -13,6 +17,9 @@ player: Eva
 3. Goal: **Wants to learn to create things**
 4. Connections: **Everyone is creative and she feels drawn to it/inspired by them**
 5. Wild Card: **Has a pet dragon named Isu that she can communicate with/understand**
+
+</div>
+</div>
 
 ## Stunts
 1. If Isu is nearby, take no corruption the first time in a scene in which corruption would be taken for an action
@@ -36,7 +43,7 @@ Corruption \[1] \[2] \[3] \
 | +2  | Investigate (active noticing/looking for something)                                                                   |
 | +2  | Athletics (dextrous, run fast, jump high)                                                                             |
 | +1  | Grounding (resisting corruption)                                                                                      |
-| +1  | Reputation (replaces resources- how much you’re able to get objects)                                                  |
+| +1  | Reputation (replaces resources- how much you're able to get objects)                                                  |
 | +1  | Physique (being strong)                                                                                               |
 | +1  | Will (mental equivalent of physique, directly resist things that would grind you down mentally, lot of mental stress) |
 |     | Fight (physical violence)                                                           |
@@ -47,7 +54,7 @@ Corruption \[1] \[2] \[3] \
 |     | Stealth (being sneaky)                                                              |
 |     | Burglary (larceny- mental and physical aspects)                                     |
 |     | Deceive (lying)                                                                     |
-|     | Provoke (trying to influence someone else’s emotions)                               |
+|     | Provoke (trying to influence someone else's emotions)                               |
 |     | Rapport (trying to schmooze someone)                                                |
 
 ## Other notes
