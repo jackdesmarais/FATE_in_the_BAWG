@@ -5,7 +5,7 @@ player: Eva
 ---
 # Awnna Breeze
 
-![Awnna Breeze](/FATE_in_the_BAWG/assets/images/PCs/awnna_breeze_image.jpg){: height="200" }
+<img src="/FATE_in_the_BAWG/assets/images/PCs/awnna_breeze_image.jpg" alt="A tattoo'd woman with black hair and coveralls holding a large wrench" width="200"/>
 
 ## Aspects
 1. High Concept: **Magic user who intuitively connects to manmade/created things and can enhance her functions without thought**
@@ -36,7 +36,7 @@ Corruption \[1] \[2] \[3] \
 | +2  | Investigate (active noticing/looking for something)                                                                   |
 | +2  | Athletics (dextrous, run fast, jump high)                                                                             |
 | +1  | Grounding (resisting corruption)                                                                                      |
-| +1  | Reputation (replaces resources- how much you're able to get objects)                                                  |
+| +1  | Reputation (replaces resources- how much you’re able to get objects)                                                  |
 | +1  | Physique (being strong)                                                                                               |
 | +1  | Will (mental equivalent of physique, directly resist things that would grind you down mentally, lot of mental stress) |
 |     | Fight (physical violence)                                                           |
@@ -47,7 +47,7 @@ Corruption \[1] \[2] \[3] \
 |     | Stealth (being sneaky)                                                              |
 |     | Burglary (larceny- mental and physical aspects)                                     |
 |     | Deceive (lying)                                                                     |
-|     | Provoke (trying to influence someone else's emotions)                               |
+|     | Provoke (trying to influence someone else’s emotions)                               |
 |     | Rapport (trying to schmooze someone)                                                |
 
 ## Other notes
