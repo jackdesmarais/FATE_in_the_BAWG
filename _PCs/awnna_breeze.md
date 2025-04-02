@@ -8,7 +8,7 @@ player: Eva
 <div style="flex: 0 0 200px;" markdown="1">
 
 ## Character portrait
-<img src="/FATE_in_the_BAWG/assets/images/PCs/awnna_breeze_image.jpg" alt="A tattoo'd woman with black hair and coveralls holding a large wrench" width="200"/>
+<img src="/FATE_in_the_BAWG/assets/images/PCs/awnna_breeze_image.jpg" alt="A tattoo'd woman with black hair and coveralls holding a large wrench" height="200"/>
 </div>
 <div style="flex: 1; min-width: 300px;" markdown="1">
 
