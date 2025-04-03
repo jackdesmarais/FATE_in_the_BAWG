@@ -13,9 +13,9 @@ player: Eva
 <div style="flex: 1; min-width: 300px;" markdown="1">
 
 ## Aspects
-1. High Concept: **Magic user who intuitively connects to manmade/created things and can enhance her functions without thought**
-2. Trouble: **Doubts her abilities when others are relying on her**
-3. Goal: **Wants to learn to create things**
+1. High Concept: **Naturally gifted mechanic who has an uncanny skill to understand and work with technology of all kinds**
+2. Trouble: **Is sometimes overconfident and ends up pushing her limits, physically and/or intellectually, if she begins to fail**
+3. Goal: **To make herself wings (not a wing suit) that allow her to fly as fast as Isu**
 4. Connections: **Everyone is creative and she feels drawn to it/inspired by them**
 5. Wild Card: **Has a pet dragon named Isu that she can communicate with/understand**
 
@@ -23,7 +23,9 @@ player: Eva
 </div>
 
 ## Stunts
-1. If Isu is nearby, take no corruption the first time in a scene in which corruption would be taken for an action
+1. Mechanic: Gain a +2 bonus using Crafts \[and Lore?], whenever the situation has specifically to do with technology or engineering.
+2. Better than New: Whenever you succeed with style on an overcome action to repair a piece of machinery, you can immediately give it a new situation aspect (with a free invoke) reflecting the improvements you’ve made, instead of just a boost.
+3. Dragon Flight: You can coax more speed out of your wingsuit than seems possible. Whenever Isu is nearby and you’re engaged in any contest where speed is the primary factor (such as a chase or race of some kind) and you tie with your Flight roll, it’s considered a success.
 
 ## Stress/consequences
 Physical \[1] \[2] \[3] \
