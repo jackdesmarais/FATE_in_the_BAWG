@@ -14,7 +14,7 @@ players:
 - name: Sarah
   character: Lawrel Sundew
 NPCs:
-- name: Train_Boi_137ye245
+- name: TRAIN_BOI_137ye245
   location:
     - Windy Gate intercity cable car terminal
 date: 2025-02-23
