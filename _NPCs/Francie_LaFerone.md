@@ -2,8 +2,11 @@
 title: Francie LaFerone
 layout: default
 sessions:
-  - Arc 1:
-    - Scenario 1: 2025_03_23_Session2_Clearing_Gerties_Greens
+  - arc: Arc 1
+    scenarios:
+      - name: Scenario 1
+        sessions:
+          - 2025_03_23_Session2_Clearing_Gerties_Greens
 location:
   - Windy Gate
 faction:
@@ -13,21 +16,12 @@ faction:
 # Francie LaFerone
 Francie is short and thin with a swoop topped undercut, frameless glasses, and a loose button up with the collar open and the sleeves rolled up. Tattoos of intertwined mechanisms peak from the edges of their collars and cuffs. They run the [Windy Gate](/FATE_in_the_BAWG/locations/Windy_Gate.html) chapter of the [Pulley Pullers](/FATE_in_the_BAWG/factions/Pulley_Pullers.html).
 
-
 {% assign sessions = page.sessions %}
 {% if sessions %}
 ## Sessions appearing
-{% for arc_hash in sessions %}
-{% for arc_name, scenarios in arc_hash %}
-{% if scenarios.first.first %}
-  {% for scenario in scenarios %}
-  {% for scenario_name, session_file in scenario %}
-- [{{ arc_name }} - {{ scenario_name }}: {{ session_file }}](/FATE_in_the_BAWG/session_notes/{{ arc_name | replace: " ", "_" }}/{{ scenario_name | replace: " ", "_" }}/{{ session_file }}.html)
-  {% endfor %}
-  {% endfor %}
-{% else %}
-- [{{ arc_name }}: {{ scenarios }}](/FATE_in_the_BAWG/session_notes/{{ arc_name | replace: " ", "_" }}/{{ scenarios }}.html)
-{% endif %}
+{% for arc in sessions %}
+{% for scenario in arc.scenarios %}
+- [{{ arc.arc }} - {{ scenario.name }}: {{ scenario.sessions[0] }}](/FATE_in_the_BAWG/session_notes/{{ arc.arc | replace: " ", "_" }}/{{ scenario.name | replace: " ", "_" }}/{{ scenario.sessions[0] }}.html)
 {% endfor %}
 {% endfor %}
 {% endif %}
