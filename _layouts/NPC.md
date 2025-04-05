@@ -4,6 +4,7 @@ layout: default
 
 {{ content }}
 
+{% capture npc_content %}
 {% assign session_notes = site.session_notes | where_exp: "note", "note.NPCs" %}
 {% assign matching_notes = "" | split: "" %}
 {% assign all_locations = "" | split: "" %}
@@ -54,4 +55,7 @@ layout: default
 {% for faction in factions %}
 - [{{ faction }}](/FATE_in_the_BAWG/factions/{{ faction | replace: " ", "_" }}.html)
 {% endfor %}
-{% endif %} 
+{% endif %}
+{% endcapture %}
+
+{{ npc_content | markdownify }} 
