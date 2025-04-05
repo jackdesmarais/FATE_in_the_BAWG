@@ -28,19 +28,14 @@ Francie is short and thin with a swoop topped undercut, frameless glasses, and a
 {% if matching_notes.size > 0 %}
 ## Sessions appearing
 {% for note in matching_notes %}
-{% assign titles = note.title | split: "," %}
-{% assign current_note = note %}
-{% assign hierarchy = "" %}
-{% assign first = true %}
-{% while current_note %}
-  {% if first %}
-    {% assign hierarchy = current_note.title %}
-    {% assign first = false %}
-  {% else %}
-    {% assign hierarchy = current_note.title | append: " - " | append: hierarchy %}
+{% assign hierarchy = note.title %}
+{% if note.parent %}
+  {% assign hierarchy = note.parent | append: " - " | append: hierarchy %}
+  {% assign parent_page = site.session_notes | where: "title", note.parent | first %}
+  {% if parent_page.parent %}
+    {% assign hierarchy = parent_page.parent | append: " - " | append: hierarchy %}
   {% endif %}
-  {% assign current_note = site.session_notes | where: "title", current_note.parent | first %}
-{% endwhile %}
+{% endif %}
 - [{{ hierarchy }}](/FATE_in_the_BAWG/session_notes/{{ note.path | split: "/" | slice: -2, 2 | join: "/" | remove: ".md" }}.html)
 {% endfor %}
 {% endif %}
