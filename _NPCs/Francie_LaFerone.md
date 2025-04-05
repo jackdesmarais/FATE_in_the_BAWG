@@ -1,14 +1,6 @@
 ---
 title: Francie LaFerone
 layout: default
-sessions:
-  - arc: Arc 1
-    scenarios:
-      - name: Scenario 1
-        sessions:
-          - 2025_03_23_Session2_Clearing_Gerties_Greens
-location:
-  - Windy Gate
 faction:
   - Pulley Pullers
 ---
@@ -16,20 +8,47 @@ faction:
 # Francie LaFerone
 Francie is short and thin with a swoop topped undercut, frameless glasses, and a loose button up with the collar open and the sleeves rolled up. Tattoos of intertwined mechanisms peak from the edges of their collars and cuffs. They run the [Windy Gate](/FATE_in_the_BAWG/locations/Windy_Gate.html) chapter of the [Pulley Pullers](/FATE_in_the_BAWG/factions/Pulley_Pullers.html).
 
-{% assign sessions = page.sessions %}
-{% if sessions %}
-## Sessions appearing
-{% for arc in sessions %}
-{% for scenario in arc.scenarios %}
-- [{{ arc.arc }} - {{ scenario.name }}: {{ scenario.sessions[0] }}](/FATE_in_the_BAWG/session_notes/{{ arc.arc | replace: " ", "_" }}/{{ scenario.name | replace: " ", "_" }}/{{ scenario.sessions[0] }}.html)
+{% assign session_notes = site.session_notes | where_exp: "note", "note.NPCs" %}
+{% assign matching_notes = "" | split: "" %}
+{% assign all_locations = "" | split: "" %}
+{% for note in session_notes %}
+  {% for npc in note.NPCs %}
+    {% if npc.name == page.title %}
+      {% assign matching_notes = matching_notes | push: note %}
+      {% if npc.location %}
+        {% for loc in npc.location %}
+          {% assign all_locations = all_locations | push: loc %}
+        {% endfor %}
+      {% endif %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
+
+{% if matching_notes.size > 0 %}
+## Sessions appearing
+{% for note in matching_notes %}
+{% assign titles = note.title | split: "," %}
+{% assign current_note = note %}
+{% assign hierarchy = "" %}
+{% assign first = true %}
+{% while current_note %}
+  {% if first %}
+    {% assign hierarchy = current_note.title %}
+    {% assign first = false %}
+  {% else %}
+    {% assign hierarchy = current_note.title | append: " - " | append: hierarchy %}
+  {% endif %}
+  {% assign current_note = site.session_notes | where: "title", current_note.parent | first %}
+{% endwhile %}
+- [{{ hierarchy }}](/FATE_in_the_BAWG/session_notes/{{ note.path | split: "/" | slice: -2, 2 | join: "/" | remove: ".md" }}.html)
 {% endfor %}
 {% endif %}
 
-{% assign locations = page.location %}
-{% if locations %}
+{% assign unique_locations = all_locations | uniq | sort %}
+{% if unique_locations.size > 0 %}
 ## Locations seen
-{% for location in locations %}
+{% for location in unique_locations %}
 - [{{ location }}](/FATE_in_the_BAWG/locations/{{ location | replace: " ", "_" }}.html)
 {% endfor %}
 {% endif %}

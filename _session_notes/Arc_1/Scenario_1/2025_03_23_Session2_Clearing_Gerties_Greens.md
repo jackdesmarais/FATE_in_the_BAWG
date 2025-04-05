@@ -13,6 +13,20 @@ players:
   character: Taffy Tawfee
 - name: Sarah
   character: Lawrel Sundew
+NPCs:
+- name: Gertie Green
+  location:
+    - Gerties Greens
+- name: Jan Janson
+  location:
+    - Windy Gate
+- name: Wendy Garrison
+  location:
+    - Windy Gate
+- name: Francie LaFerone
+  location:
+    - Windy Gate
+    
 date: 2025-03-23
 ---
 
