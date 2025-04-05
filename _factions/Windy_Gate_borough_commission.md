@@ -1,6 +1,6 @@
 ---
 title: Windy Gate Borough Commission
-layout: default
+layout: faction
 ---
 
 # Windy Gate Borough Commission

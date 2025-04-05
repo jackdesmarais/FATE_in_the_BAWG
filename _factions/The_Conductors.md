@@ -1,6 +1,6 @@
 ---
 title: The Conductors
-layout: default
+layout: faction
 ---
 
 # The Conductors

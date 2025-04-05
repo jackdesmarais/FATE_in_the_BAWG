@@ -1,6 +1,6 @@
 ---
 title: The BAWG
-layout: default
+layout: faction
 ---
 
 # The BAWG

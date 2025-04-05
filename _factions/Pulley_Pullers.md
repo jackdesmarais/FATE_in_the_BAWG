@@ -1,6 +1,6 @@
 ---
 title: Pulley Pullers
-layout: default
+layout: faction
 ---
 
 # Pulley Pullers

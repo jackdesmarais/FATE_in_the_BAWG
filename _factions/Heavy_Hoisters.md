@@ -1,6 +1,6 @@
 ---
 title: Heavy Hoisters
-layout: default
+layout: faction
 ---
 
 # Heavy Hoisters
