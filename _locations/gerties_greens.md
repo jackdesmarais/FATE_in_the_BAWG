@@ -1,6 +1,6 @@
 ---
 title: Gerties Greens
-layout: default
+layout: location
 parent: Windy Gate
 ---
 

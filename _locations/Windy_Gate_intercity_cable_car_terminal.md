@@ -1,7 +1,7 @@
 ---
 title: Windy Gate intercity cable car terminal
 parent: Windy Gate
-layout: default
+layout: location
 ---
 
 # Windy Gate intercity cable car terminal

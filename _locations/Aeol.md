@@ -1,6 +1,6 @@
 ---
 title: Aeol
-layout: default
+layout: location
 ---
 
 # Aeol

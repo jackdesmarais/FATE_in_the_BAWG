@@ -1,6 +1,6 @@
 ---
 title: Pulley Tower
-layout: default
+layout: location
 parent: Windy Gate
 ---
 

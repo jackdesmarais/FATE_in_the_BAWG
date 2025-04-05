@@ -1,6 +1,6 @@
 ---
 title: The Spires
-layout: default
+layout: location
 parent: Aeol
 ---
 

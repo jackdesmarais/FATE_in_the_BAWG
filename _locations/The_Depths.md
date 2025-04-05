@@ -1,6 +1,6 @@
 ---
 title: The Depths
-layout: default
+layout: location
 ---
 
 # The Depths

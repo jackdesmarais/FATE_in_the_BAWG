@@ -1,6 +1,6 @@
 ---
 title: Windy Gate
-layout: default
+layout: location
 parent: The Spires
 ---
 
