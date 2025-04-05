@@ -17,14 +17,16 @@ Francie is short and thin with a swoop topped undercut, frameless glasses, and a
 {% assign sessions = page.sessions %}
 {% if sessions %}
 ## Sessions appearing
-{% for session_hash in sessions %}
-{% for arc in session_hash %}
-{% if arc[1].first %}
-{% for scenario in arc[1] %}
-- [{{ arc[0] }} - {{ scenario[0] }}: {{ scenario[1] }}](/FATE_in_the_BAWG/session_notes/{{ arc[0] | replace: " ", "_" }}/{{ scenario[0] | replace: " ", "_" }}/{{ scenario[1] }}.html)
-{% endfor %}
+{% for arc_hash in sessions %}
+{% for arc_name, scenarios in arc_hash %}
+{% if scenarios.first.first %}
+  {% for scenario in scenarios %}
+  {% for scenario_name, session_file in scenario %}
+- [{{ arc_name }} - {{ scenario_name }}: {{ session_file }}](/FATE_in_the_BAWG/session_notes/{{ arc_name | replace: " ", "_" }}/{{ scenario_name | replace: " ", "_" }}/{{ session_file }}.html)
+  {% endfor %}
+  {% endfor %}
 {% else %}
-- [{{ arc[0] }}: {{ arc[1] }}](/FATE_in_the_BAWG/session_notes/{{ arc[0] | replace: " ", "_" }}/{{ arc[1] }}.html)
+- [{{ arc_name }}: {{ scenarios }}](/FATE_in_the_BAWG/session_notes/{{ arc_name | replace: " ", "_" }}/{{ scenarios }}.html)
 {% endif %}
 {% endfor %}
 {% endfor %}
