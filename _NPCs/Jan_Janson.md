@@ -1,6 +1,12 @@
 ---
 title: Jan Janson
 layout: default
+sessions:
+  - Scenario 1: 2025_03_23_Session2_Clearing_Gerties_Greens
+location:
+  - Windy Gate
+faction:
+  - Windy Gate Borough Commission
 ---
 
 # Jan Janson

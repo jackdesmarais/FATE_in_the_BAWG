@@ -1,6 +1,10 @@
 ---
 title: Train_Boi_137ye245
 layout: default
+sessions:
+  - Arc 0: 2025_02_23_Session1_Charecter_creation
+location:
+  - Windy Gate
 ---
 
 # Train_Boi_137ye245

@@ -4,4 +4,4 @@ layout: default
 ---
 
 # Windy Gate Borough Commission
-The local government of [Windy Gate](/FATE_in_the_BAWG/locations/Windy_gate.html).
+The local government of [Windy Gate](/FATE_in_the_BAWG/locations/Windy_Gate.html).
