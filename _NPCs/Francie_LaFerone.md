@@ -36,7 +36,10 @@ Francie is short and thin with a swoop topped undercut, frameless glasses, and a
     {% assign hierarchy = parent_page.parent | append: " - " | append: hierarchy %}
   {% endif %}
 {% endif %}
-- [{{ hierarchy }}](/FATE_in_the_BAWG/session_notes/{{ note.path | split: "/" | slice: -2, 2 | join: "/" | remove: ".md" }}.html)
+{% assign path_parts = note.path | split: "/" %}
+{% assign file_name = path_parts | last | remove: ".md" %}
+{% assign dir_path = path_parts | slice: 2, 2 | join: "/" %}
+- [{{ hierarchy }}](/FATE_in_the_BAWG/session_notes/{{ dir_path }}/{{ file_name }}.html)
 {% endfor %}
 {% endif %}
 
