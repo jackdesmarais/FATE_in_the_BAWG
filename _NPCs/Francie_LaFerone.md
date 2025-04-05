@@ -38,7 +38,7 @@ Francie is short and thin with a swoop topped undercut, frameless glasses, and a
 {% endif %}
 {% assign path_parts = note.path | split: "/" %}
 {% assign file_name = path_parts | last | remove: ".md" %}
-{% assign dir_path = path_parts | slice: 1, path_parts.size | join: "/" %}
+{% assign dir_path = path_parts | slice: 1, path_parts.size | join: "/" | remove: ".md" %}
 - {{note.path}}
 - {{path_parts}}
 - {{dir_path}}
