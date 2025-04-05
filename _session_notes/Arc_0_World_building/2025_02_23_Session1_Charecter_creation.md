@@ -13,6 +13,10 @@ players:
   character: Taffy Tawfee
 - name: Sarah
   character: Lawrel Sundew
+NPCs:
+- name: Train_Boi_137ye245
+  location:
+    - Windy Gate intercity cable car terminal
 date: 2025-02-23
 ---
 

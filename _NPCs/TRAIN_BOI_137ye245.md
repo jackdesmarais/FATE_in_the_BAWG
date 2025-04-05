@@ -1,6 +1,8 @@
 ---
 title: Train_Boi_137ye245
 layout: NPC
+faction:
+  - The Conductors
 ---
 
 # Train_Boi_137ye245
