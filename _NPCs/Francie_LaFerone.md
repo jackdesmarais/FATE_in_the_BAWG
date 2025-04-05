@@ -39,6 +39,10 @@ Francie is short and thin with a swoop topped undercut, frameless glasses, and a
 {% assign path_parts = note.path | split: "/" %}
 {% assign file_name = path_parts | last | remove: ".md" %}
 {% assign dir_path = path_parts | slice: 2, 2 | join: "/" %}
+- {{note.path}}
+- {{path_parts}}
+- {{dir_path}}
+- {{file_name}}
 - [{{ hierarchy }}](/FATE_in_the_BAWG/session_notes/{{ dir_path }}/{{ file_name }}.html)
 {% endfor %}
 {% endif %}
