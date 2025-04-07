@@ -52,4 +52,4 @@ Corruption \[1] \[2] \[3] \
 ## Other notes
 1. Age: 16
 2. Birth place: [Aeol](/FATE_in_the_BAWG/locations/Aeol.html)
-3. Signature sandwich: PBJ and white bread no toast straight up and down cut
+3. Signature sandwich: Penut butter and jelly on white bread (not toasted), cut straight up and down
