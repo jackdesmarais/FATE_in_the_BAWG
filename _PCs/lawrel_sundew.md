@@ -4,12 +4,24 @@ layout: default
 player: Sarah
 ---
 # Lawrel Sundew
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="flex: 0 0 200px;" markdown="1">
+
+## Character portrait
+<img src="/FATE_in_the_BAWG/assets/images/PCs/lawrel_sundew_image.jpg" alt="A tattoo'd woman with black hair and coveralls holding a large wrench" width="200"/>
+</div>
+<div style="flex: 1; min-width: 300px;" markdown="1">
+
 ## Aspects
 1. High Concept: **Rebellious apprentice bog witch**
 2. Trouble: **Bog family obligation**
 3. Goal: **I want to make a name for myself outside of my family and the bog**
 4. Connections: **This group strengthens my magic**
 5. Wild Card: **trained in Bawg Maga**
+
+</div>
+</div>
+
 
 ## Stunts
 1. When encountering a magical effect can use notice instead of investigation to learn more 
