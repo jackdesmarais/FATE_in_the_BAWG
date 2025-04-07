@@ -63,3 +63,4 @@ Corruption \[1] \[2] \[3] \
 
 ## Other notes
 1. Birth place: The Bog city
+2. Signature sandwich: Sautéed mushrooms/sun-chokes/root veggies on whole grain healthy bread. With a series of dips, pesto, veggie aux jus, horseradish

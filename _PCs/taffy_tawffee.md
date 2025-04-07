@@ -49,3 +49,4 @@ Corruption \[1] \[2] \[3] \
 
 
 ## Other notes
+1. Signature sandwich: Rainbow bagel with strawberry-chocolate chip cream cheese and a side of sprinkles for dipping
