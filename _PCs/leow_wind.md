@@ -5,12 +5,22 @@ player: Jana
 ---
 
 # Leow Wind
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="flex: 0 0 200px;" markdown="1">
+
+## Character portrait
+<img src="/FATE_in_the_BAWG/assets/images/PCs/leow_wind_image.jpg" alt="A tattoo'd woman with black hair and coveralls holding a large wrench" width="200"/>
+</div>
+<div style="flex: 1; min-width: 300px;" markdown="1">
 ## Aspects
 1. High Concept: **16 year old sweetheart w/a gift for explosives**
 2. Trouble: **Feels a constant need to prove himself**
 3. Goal: **To find home/family (not literal)**
 4. Connections: **This group of girls welcomed him in when he felt like nobody else did**
 5. Wild Card: **--------------** (Secret)
+
+</div>
+</div>
 
 ## Stunts
 1. When emotions are high, channeling replaces craft

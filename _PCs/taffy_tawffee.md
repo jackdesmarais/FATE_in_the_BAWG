@@ -4,6 +4,13 @@ layout: default
 player: Talia
 ---
 # Taffy Tawffee
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="flex: 0 0 200px;" markdown="1">
+
+## Character portrait
+<img src="/FATE_in_the_BAWG/assets/images/PCs/taffy_tawffee_image.jpg" alt="A tattoo'd woman with black hair and coveralls holding a large wrench" width="200"/>
+</div>
+<div style="flex: 1; min-width: 300px;" markdown="1">
 ## Aspects
 
 1. High Concept: **Local candy shop owner who just wants everyone to be happy, eat candy, and BE SAFE.**
@@ -11,6 +18,9 @@ player: Talia
 3. Goal: **Wants to avenge friends’ deaths by finding and punishing the owner of the chocolate factory.**
 4. Connections: **Sees that each of the members of the group is uncertain or feels out of place in some way, and she knows that leads to risky behavior, so she wants to keep them safe from the fate that befell her friends.**
 5. Wild Card: **Pulls from the magic realm to do candy magic.**
+
+</div>
+</div>
 
 ## Stunts
 1. If she has met the person at least once before, she can use reputation instead of empathy.
