@@ -8,7 +8,7 @@ player: Talia
 <div style="flex: 0 0 200px;" markdown="1">
 
 ## Character portrait
-<img src="/FATE_in_the_BAWG/assets/images/PCs/taffy_tawffee_image.jpg" alt="A tattoo'd woman with black hair and coveralls holding a large wrench" width="200"/>
+<img src="/FATE_in_the_BAWG/assets/images/PCs/taffy_tawffee_image.jpg" alt="A woman wearing a candy cane patterned dress and a peppermint headband" width="200"/>
 </div>
 <div style="flex: 1; min-width: 300px;" markdown="1">
 ## Aspects

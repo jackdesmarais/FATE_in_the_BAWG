@@ -9,7 +9,7 @@ player: Jana
 <div style="flex: 0 0 200px;" markdown="1">
 
 ## Character portrait
-<img src="/FATE_in_the_BAWG/assets/images/PCs/leow_wind_image.jpg" alt="A tattoo'd woman with black hair and coveralls holding a large wrench" width="200"/>
+<img src="/FATE_in_the_BAWG/assets/images/PCs/leow_wind_image.jpg" alt="A young man with tousled brown hair and a dark green coat" width="200"/>
 </div>
 <div style="flex: 1; min-width: 300px;" markdown="1">
 ## Aspects

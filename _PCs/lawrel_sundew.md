@@ -8,7 +8,7 @@ player: Sarah
 <div style="flex: 0 0 200px;" markdown="1">
 
 ## Character portrait
-<img src="/FATE_in_the_BAWG/assets/images/PCs/lawrel_sundew_image.jpg" alt="A tattoo'd woman with black hair and coveralls holding a large wrench" width="200"/>
+<img src="/FATE_in_the_BAWG/assets/images/PCs/lawrel_sundew_image.jpg" alt="A woman with black hair and a green dress stands in a swamp" width="200"/>
 </div>
 <div style="flex: 1; min-width: 300px;" markdown="1">
 
