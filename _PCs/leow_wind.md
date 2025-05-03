@@ -9,7 +9,7 @@ player: Jana
 <div style="flex: 0 0 200px;" markdown="1">
 
 ## Character portrait
-<img src="/FATE_in_the_BAWG/assets/images/PCs/leow_wind_image.jpg" alt="A young man with tousled brown hair and a dark green coat" width="200"/>
+<img src="../assets/images/PCs/leow_wind_image.jpg" alt="A young man with tousled brown hair and a dark green coat" width="200"/>
 </div>
 <div style="flex: 1; min-width: 300px;" markdown="1">
 ## Aspects
@@ -40,7 +40,7 @@ Corruption \[1] \[2] \[3] \
 | --- | --------------------------------------------------------------------------------------------------------------------- |
 | +4  | Channeling (using your magic)                                                                                         |
 | +3  | Lore (knowing things about the world)                                                                                 |
-| +3  | Reputation (replaces resources- how much you’re able to get objects)                                                  |
+| +3  | Reputation (replaces resources- how much you're able to get objects)                                                  |
 | +2  | Investigate (active noticing/looking for something)                                                                   |
 | +2  | Crafts (building things)                                                                                              |
 | +2  | Grounding (resisting corruption)                                                                                      |
@@ -54,7 +54,7 @@ Corruption \[1] \[2] \[3] \
 | +0  | Fight (physical violence)                                                                                             |
 | +0  | Notice (passive noticing)                                                                                             |
 | +0  | Physique (being strong)                                                                                               |
-| +0  | Provoke (trying to influence someone else’s emotions)                                                                 |
+| +0  | Provoke (trying to influence someone else's emotions)                                                                 |
 | +0  | Shoot (ability to throw something at someone)                                                                         |
 | +0  | Stealth (being sneaky)                                                                                                |
 | +0  | Will (mental equivalent of physique, directly resist things that would grind you down mentally, lot of mental stress) |
