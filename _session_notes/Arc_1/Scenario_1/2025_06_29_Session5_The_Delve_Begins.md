@@ -19,8 +19,11 @@ NPCs:
   location:
     - Taffys Tawfees
 - name: PLATFORM_PATTIE_472te987
-  loactaion:
+  location:
     - The Spires
+- name: Karst
+  location: 
+    - Pulley Tower
 
     
 date: 2025-05-29
