@@ -24,6 +24,12 @@ NPCs:
 - name: Karst
   location: 
     - Pulley Tower
+- name: Grom theDilf
+  location:
+    - Windy Gate Public Library
+- name: Tim Welch
+  location:
+    - Windy Gate Public Library
 
     
 date: 2025-05-29
