@@ -15,6 +15,7 @@ This is a living world document for a technicolor steampunk FATE campaign set in
 - `_factions/`: Organization descriptions
 - `_creatures/`: Creature descriptions
 - `_subsystems/`: Game specific systems
+- `_spiritual_realms/`: Alternate realities from which charecters can draw power to perform magic
 
 ### Automated Features
 The site uses custom layouts to automatically maintain relationships between pages:
