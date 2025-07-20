@@ -1,6 +1,7 @@
 ---
 title: Janes apartment
 layout: location
+parent: Windy Gate
 ---
 
 # Jane's Apartment
