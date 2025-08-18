@@ -10,7 +10,7 @@ layout: default
 {% assign all_locations = "" | split: "" %}
 {% for note in session_notes %}
   {% for player in note.players %}
-    {% if player.charecter == page.title %}
+    {% if player.character == page.title %}
       {% assign matching_notes = matching_notes | push: note %}
       {% break %}
     {% endif %}
