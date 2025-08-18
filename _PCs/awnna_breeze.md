@@ -2,6 +2,7 @@
 title: Awnna Breeze
 layout: default
 player: Eva
+layout: PC
 ---
 # Awnna Breeze
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">

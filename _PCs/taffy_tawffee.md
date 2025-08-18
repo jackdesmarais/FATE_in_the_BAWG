@@ -2,6 +2,7 @@
 title: Taffy Tawffee
 layout: default
 player: Talia
+layout: PC
 ---
 # Taffy Tawffee
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">

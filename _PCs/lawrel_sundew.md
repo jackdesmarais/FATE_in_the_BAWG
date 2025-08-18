@@ -2,6 +2,7 @@
 title: Lawrel Sundew
 layout: default
 player: Sarah
+layout: PC
 ---
 # Lawrel Sundew
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">

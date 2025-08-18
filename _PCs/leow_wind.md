@@ -2,6 +2,7 @@
 title: Leow Wind
 layout: default
 player: Jana
+layout: PC
 ---
 
 # Leow Wind
