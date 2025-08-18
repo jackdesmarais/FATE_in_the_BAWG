@@ -35,5 +35,6 @@ layout: default
 - [{{ hierarchy }}](/FATE_in_the_BAWG/session_notes/{{ dir_path }}.html)
 {% endfor %}
 {% endif %}
+{% endcapture %}
 
-{{ npc_content | markdownify }} 
+{{ pc_content | markdownify }} 
