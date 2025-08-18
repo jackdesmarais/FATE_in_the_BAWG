@@ -63,3 +63,7 @@ Corruption \[1] \[2] \[3] \
 1. Age: 16
 2. Birth place: [Aeol](/FATE_in_the_BAWG/locations/Aeol.html)
 3. Signature sandwich: Penut butter and jelly on white bread (not toasted), cut straight up and down
+4. What is your biggest red flag for a first date?
+	1. dissing the party
+5. Person to get dinner with
+	1. Nanny: His Nanny as a child before ~7. The only one in the home who cared about him specifically. She didn't get angry at him for blowing stuff up but tried to guide and support him. But she just disappeared one day. Never knew her real name. 

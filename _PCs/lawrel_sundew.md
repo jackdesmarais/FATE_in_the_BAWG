@@ -64,3 +64,8 @@ Corruption \[1] \[2] \[3] \
 ## Other notes
 1. Birth place: The Bog city
 2. Signature sandwich: Sautéed mushrooms/sun-chokes/root veggies on whole grain, "healthy" bread. Accompanied by a series of dips including - pesto, veggie aux jus, and spicy horseradish
+3. What is your biggest red flag for a first date?
+	1. Neat-freak
+4. First crush/person to get dinner with
+	1. Steed Aspen the Crockasmile Catcher who got killed by a sting from the peanutbutter jellyfish
+	2. Has a really hot son who she is also crushing on a bit

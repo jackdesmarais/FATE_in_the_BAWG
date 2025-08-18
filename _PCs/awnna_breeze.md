@@ -64,3 +64,5 @@ Corruption \[1] \[2] \[3] \
 1. Age: 22
 2. Birth place: [Windy Gate](/FATE_in_the_BAWG/locations/Windy_Gate.html)
 3. Signature sandwich: Pita with shawarma and spicy hummus
+3. What is your biggest red flag for a first date?
+	1. Dismissing interests

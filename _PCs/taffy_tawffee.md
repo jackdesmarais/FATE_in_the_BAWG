@@ -60,3 +60,8 @@ Corruption \[1] \[2] \[3] \
 
 ## Other notes
 1. Signature sandwich: Rainbow bagel with strawberry-chocolate chip cream cheese and a side of sprinkles for dipping
+2. What is your biggest red flag for a first date?
+	1. Evidence of diet culture
+3. Who to have dinner with
+	1. The wonka look alike who killed her friends
+	2. Or her friend Cupcake Croquembouche a rebellious baker (from a family of mixologist) who fell in the Wonka factory shot by chapagne corks
