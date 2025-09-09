@@ -22,4 +22,6 @@ A large well built Wyrm with a gaping maw.
 1 minor consequence
 
 ## Stunt 
+```
 Gulp: If you succeed with style on an attack you may forgo 1 stress to put a Swallowed aspect on your target.
+```

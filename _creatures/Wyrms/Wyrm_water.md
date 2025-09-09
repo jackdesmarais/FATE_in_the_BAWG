@@ -22,5 +22,7 @@ A large aquattic wyrm
 1 minor consequence
 
 ## Stunt 
+```
 Drag beneath: When you create a "grappled" aspect on a target standing within one zone of the water. You may move one zone deeper into the water carying them with you. If this brings them under the surface, you can create a submerged aspect with one free invoke.
 Death roll: You gain an additional +2 to attack rolls against targets you have grappled.
+```
