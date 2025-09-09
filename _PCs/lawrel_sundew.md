@@ -71,4 +71,4 @@ Corruption \[1] \[2] \[3] \
 	1. Steed Aspen the Crockasmile Catcher who got killed by a sting from the peanutbutter jellyfish
 	2. Has a really hot son who she is also crushing on a bit
 5. Lawrel had a lot of semi-stray pets
-	1. She had a [Phrawg]((/FATE_in_the_BAWG/creatures/Phrawg.html) named Phrewd a 35 lb frog-like creature
+	1. She had a [Phrawg](/FATE_in_the_BAWG/creatures/Phrawg.html) named Phrewd a 35 lb frog-like creature
