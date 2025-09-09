@@ -26,8 +26,10 @@ players:
 **[Windy Gate](/FATE_in_the_BAWG/locations/Windy_Gate.html) has 99000 problems and tiny dragons are all of them** 
 
 ## Objectives
-- [ ] Figure out where the [dragons](/FATE_in_the_BAWG/creatures/Dragons.html) are coming from
+- [X] Figure out where the [dragons](/FATE_in_the_BAWG/creatures/Dragons.html) are coming from
 - [ ] Maybe some sort of follow up on [Pulley tower](/FATE_in_the_BAWG/locations/Pulley_tower.html)?
+  - [ ] Delve into pulley tower to find [Karst](/FATE_in_the_BAWG/NPCs/Karst.html)
+  - [ ] Convince (or force?) [Karst](/FATE_in_the_BAWG/NPCs/Karst.html) to submit to the [Avatar transport chest](/FATE_in_the_BAWG/items/Avatar_transport_chest.html)
 - [ ] Other stuff?
 - [ ] Figure out how to get the dragons to move on
 - [ ] Profit (non-monetary)!

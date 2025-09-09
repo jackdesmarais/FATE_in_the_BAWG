@@ -66,3 +66,5 @@ Corruption \[1] \[2] \[3] \
 3. Who to have dinner with
 	1. The wonka look alike who killed her friends
 	2. Or her friend Cupcake Croquembouche a rebellious baker (from a family of mixologist) who fell in the Wonka factory shot by chapagne corks
+4. Taffy had no real pets because her whole town was in the food service industry
+	1. She would make animal figurines out of candy and share with friends
