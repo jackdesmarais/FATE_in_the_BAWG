@@ -1,5 +1,5 @@
 ---
-title: 2025_06_29_Session5_The_Delve_Begins
+title: 2025_09_07_Session6_Searching_the_lower_caves
 layout: default
 parent: Scenario 1
 players:
