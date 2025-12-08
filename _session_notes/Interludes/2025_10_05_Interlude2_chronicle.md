@@ -12,29 +12,29 @@ NPCs:
   location:
     - Gem City
 - name: Jerry Jeode
-    location:
-        - Gem City
+  location:
+    - Gem City
 - name: Judy Jeode
-    location:
-        - Gem City
+  location:
+    - Gem City
 - name: Josephine
-    location:
-        - Gem City
+  location:
+    - Gem City
 - name: Jemma
-    location:
-        - Gem City
+  location:
+    - Gem City
 - name: Ma$ter Quora
-    location:
-        - Gem City
+  location:
+    - Gem City
 - name: Ocean
-    location:
-        - Gem City
+  location:
+    - Gem City
 - name: Dune
-    location:
-        - Gem City
+  location:
+    - Gem City
 - name: Bouillon
-    location:
-        - Gem City
+  location:
+    - Gem City
     
 date: 2025-10-05
 ---
