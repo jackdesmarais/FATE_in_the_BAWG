@@ -73,3 +73,6 @@ Corruption \[1] \[2] \[3] \
     1. They are pests!
     2. His family exterminator finally managed to kill them
     3. But they were actually many of them over the decade he thought he had them because they have a 2 year lifespan
+8. What do you miss most about when you were living with your family? What do you miss least?
+	1. Doesn't miss anything except, on occasion when his mother was feeling well enough to get out of bed and her icy demeanor would melt enough for her to say I'm proud of you 
+	2. Misses the least: Feeling the need to tiptoe around his own home. Still walks quietly in the common area and has to remind himself it's no longer necessary

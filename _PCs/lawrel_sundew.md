@@ -72,3 +72,7 @@ Corruption \[1] \[2] \[3] \
 	2. Has a really hot son who she is also crushing on a bit
 5. Lawrel had a lot of semi-stray pets
 	1. She had a [Phrawg](/FATE_in_the_BAWG/creatures/Phrawg.html) named Phrewd a 35 lb frog-like creature
+6. What do you miss most about when you were living with your family? What do you miss least?
+	1. Misses feeling grounded, Who is she without a physical connection to the earth
+	2. She doesn't miss the expectations
+		1. It was never thank you, it was always why didn't you do more?

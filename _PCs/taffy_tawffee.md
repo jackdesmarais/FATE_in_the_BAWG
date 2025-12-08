@@ -68,3 +68,6 @@ Corruption \[1] \[2] \[3] \
 	2. Or her friend Cupcake Croquembouche a rebellious baker (from a family of mixologist) who fell in the Wonka factory shot by chapagne corks
 4. Taffy had no real pets because her whole town was in the food service industry
 	1. She would make animal figurines out of candy and share with friends
+5. What do you miss most about when you were living with your family? What do you miss least?
+	1. Misses the creativity of being in a community with other people aways making candy and being in an environment where people are making candy together.
+	2. Misses the least her family weren't candy makers for the people, always wanted to make fancy things. Their candy went on display or to fancy holiday parties, she wanted to connect with the people

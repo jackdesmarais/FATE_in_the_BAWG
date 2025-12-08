@@ -25,6 +25,9 @@ NPCs:
 - name: BUS_LADY_5432te79
   location:
     - Windy Gate
+- name: Venews Flytrawp Sundew
+    location:
+     - Bog City
     
 date: 2025-12-07
 ---
