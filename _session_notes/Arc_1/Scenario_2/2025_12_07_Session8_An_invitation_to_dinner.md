@@ -26,8 +26,8 @@ NPCs:
   location:
     - Windy Gate
 - name: Venews Flytrawp Sundew
-    location:
-     - Bog City
+  location:
+    - Bog City
     
 date: 2025-12-07
 ---
