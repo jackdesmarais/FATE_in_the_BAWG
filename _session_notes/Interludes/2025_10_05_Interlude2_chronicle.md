@@ -1,5 +1,5 @@
 ---
-title: 2025_07_13_Interlude1_In_This_World
+title: 2025_10_05_Interlude2_chronicle
 layout: default
 parent: Interludes
 players:
