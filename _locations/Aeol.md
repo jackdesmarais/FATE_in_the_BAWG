@@ -11,5 +11,8 @@ Twining almost organic looking towers of Sintered Crystal rise from the dune fie
 **The singing city** \
 **The city of winds**
 
+# Images
+![Aeol map](/assets/images/maps/Aeol.png)
+
 
 
