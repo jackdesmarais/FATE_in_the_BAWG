@@ -46,8 +46,8 @@ Corruption \[1] \[2] \[3] \
 | +1  | Lore (knowing things about the world)                                                                                 |
 | +1  | Notice (passive noticing)                                                                                             |
 | +1  | Stealth (being sneaky)                                                                                                |
-| +1  | Physique (being strong)                                                                                               |
-| +0  | Athletics (dextrous, run fast, jump high)                                                                             |
+| +0  | Physique (being strong)                                                                                               |
+| +1  | Athletics (dextrous, run fast, jump high)                                                                             |
 | +0  | Burglary (larceny- mental and physical aspects)                                                                       |
 | +0  | Contacts (knowing the right person)                                                                                   |
 | +0  | Deceive (lying)                                                                                                       |
@@ -71,3 +71,5 @@ Corruption \[1] \[2] \[3] \
 5. What do you miss most about when you were living with your family? What do you miss least?
 	1. Misses the creativity of being in a community with other people aways making candy and being in an environment where people are making candy together.
 	2. Misses the least her family weren't candy makers for the people, always wanted to make fancy things. Their candy went on display or to fancy holiday parties, she wanted to connect with the people
+6. Favorite holiday
+	1. In Autumn it gets windy in Coco Cove. This kicks up fragrance from everyone's candy making. The exhaust from the cotton candy factory colors the sunsets pink. People do a big candy expo. Her family would make sugar sculpture.

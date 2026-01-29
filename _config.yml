@@ -10,6 +10,9 @@ aux_links:
 favicon_ico: "/gem-stone-emoji-clipart-lg.png"
 
 collections:
+  culture:
+    permalink: "/:collection/:path.html"
+    output: true
   creatures:
     permalink: "/:collection/:path.html"
     output: true
@@ -38,6 +41,11 @@ collections:
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
+    culture:
+      name: Culture
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false
     # Reference the "tests" collection
     creatures:
       name: Creatures

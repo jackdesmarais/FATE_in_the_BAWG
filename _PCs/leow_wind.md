@@ -44,7 +44,7 @@ Corruption \[1] \[2] \[3] \
 | +3  | Reputation (replaces resources- how much you're able to get objects)                                                  |
 | +2  | Investigate (active noticing/looking for something)                                                                   |
 | +2  | Crafts (building things)                                                                                              |
-| +2  | Grounding (resisting corruption)                                                                                      |
+| +3  | Grounding (resisting corruption)                                                                                      |
 | +1  | Athletics (dextrous, run fast, jump high)                                                                             |
 | +1  | Contacts (knowing the right person)                                                                                   |
 | +1  | Empathy (like insight, seeing through lies, understanding others internal feelings)                                   |
@@ -76,3 +76,5 @@ Corruption \[1] \[2] \[3] \
 8. What do you miss most about when you were living with your family? What do you miss least?
 	1. Doesn't miss anything except, on occasion when his mother was feeling well enough to get out of bed and her icy demeanor would melt enough for her to say I'm proud of you 
 	2. Misses the least: Feeling the need to tiptoe around his own home. Still walks quietly in the common area and has to remind himself it's no longer necessary
+9. Favorite holiday
+	1. Chrystalis the day after the shortest day of the year everyone goes to watch the sunrise reflect off the crystal of the buildings. Families gather together to reflect on the year. This was the one time a year when his family would gather together in a moment of peace.
