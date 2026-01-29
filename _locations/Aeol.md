@@ -12,7 +12,7 @@ Twining almost organic looking towers of Sintered Crystal rise from the dune fie
 **The city of winds**
 
 # Images
-![Aeol map](/assets/images/maps/Aeol.png)
+![Aeol map](/FATE_in_the_BAWG/assets/images/maps/Aeol.png)
 
 
 
