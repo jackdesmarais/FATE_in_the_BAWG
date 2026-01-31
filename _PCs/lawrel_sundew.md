@@ -76,3 +76,6 @@ Corruption \[1] \[2] \[3] \
 	1. Misses feeling grounded, Who is she without a physical connection to the earth
 	2. She doesn't miss the expectations
 		1. It was never thank you, it was always why didn't you do more?
+7. Favorite Holiday
+	1. The great bubbling at the beginning of spring, when the frost thaws and the first big gas bubble breaks free. 
+	2. Bubble popping competition for the kids
