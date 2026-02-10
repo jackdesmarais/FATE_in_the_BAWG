@@ -30,6 +30,22 @@ layout: default
 {% endfor %}
 {% endif %}
 
+{% assign culture_items = site.culture | where_exp: "item", "item.locations" %}
+{% assign matching_culture_items = "" | split: "" %}
+{% for item in culture_items %}
+  {% if item.locations contains page.title %}
+    {% assign matching_culture_items = matching_culture_items | push: item %}
+  {% endif %}
+{% endfor %}
+
+{% if matching_culture_items.size > 0 %}
+## Culture
+{% assign sorted_culture_items = matching_culture_items | sort: "title" %}
+{% for item in sorted_culture_items %}
+- [{{ item.title }}]({{ item.url | relative_url }})
+{% endfor %}
+{% endif %}
+
 {% if matching_notes.size > 0 %}
 ## Sessions appearing
 {% for note in matching_notes %}
