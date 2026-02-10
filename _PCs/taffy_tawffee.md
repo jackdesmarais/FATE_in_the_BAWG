@@ -65,11 +65,12 @@ Corruption \[1] \[2] \[3] \
 	1. Evidence of diet culture
 3. Who to have dinner with
 	1. The wonka look alike who killed her friends
-	2. Or her friend Cupcake Croquembouche a rebellious baker (from a family of mixologist) who fell in the Wonka factory shot by chapagne corks
+	2. Or her friend [Cupcake Croquembouche](/FATE_in_the_BAWG/NPCs/Cupcake_Croquembouche.html) a rebellious baker (from a family of mixologist) who fell in the [Wonky factory](/FATE_in_the_BAWG/locations/Wonky_factory.html) shot by champagne corks
 4. Taffy had no real pets because her whole town was in the food service industry
 	1. She would make animal figurines out of candy and share with friends
 5. What do you miss most about when you were living with your family? What do you miss least?
 	1. Misses the creativity of being in a community with other people aways making candy and being in an environment where people are making candy together.
 	2. Misses the least her family weren't candy makers for the people, always wanted to make fancy things. Their candy went on display or to fancy holiday parties, she wanted to connect with the people
 6. Favorite holiday
-	1. In Autumn it gets windy in Coco Cove. This kicks up fragrance from everyone's candy making. The exhaust from the cotton candy factory colors the sunsets pink. People do a big candy expo. Her family would make sugar sculpture.
+	1. In Autum it gets windy in [Coco Cove](/FATE_in_the_BAWG/locations/Coco_Cove.html). this kicks up fragrance from everyone's candy making. The exhaust from the cotton candy factory colors the sunsets pink. People do a [big candy expo](/FATE_in_the_BAWG/culture/Big_Candy_Expo.html). Her family would make sugar sculpture.
+7. Piercing from [Session10_Scenario2_Session3](/FATE_in_the_BAWG/_session_notes/Arc_1/Scenario_2/2026_02_08_Session10_Scenario2_Session3.html): Plain stud in one ear lobe

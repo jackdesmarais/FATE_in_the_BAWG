@@ -63,12 +63,12 @@ Corruption \[1] \[2] \[3] \
 |     | Reputation (replaces resources- how much you’re able to get objects)                                                  |
 
 ## Other notes
-1. Birth place: The Bog city
+1. Birth place: [The Bog City](/FATE_in_the_BAWG/locations/Bog_city.html)
 2. Signature sandwich: Sautéed mushrooms/sun-chokes/root veggies on whole grain, "healthy" bread. Accompanied by a series of dips including - pesto, veggie aux jus, and spicy horseradish
 3. What is your biggest red flag for a first date?
 	1. Neat-freak
 4. First crush/person to get dinner with
-	1. Steed Aspen the Crockasmile Catcher who got killed by a sting from the peanutbutter jellyfish
+	1. [Steed Aspen](/FATE_in_the_BAWG/NPCs/Steed_Aspen.html) the Crockasmile Catcher who got killed by a sting from the [Peanutbutter Jellyfish](/FATE_in_the_BAWG/creatures/Peanutbutter_Jellyfish.html)
 	2. Has a really hot son who she is also crushing on a bit
 5. Lawrel had a lot of semi-stray pets
 	1. She had a [Phrawg](/FATE_in_the_BAWG/creatures/Phrawg.html) named Phrewd a 35 lb frog-like creature
@@ -77,5 +77,6 @@ Corruption \[1] \[2] \[3] \
 	2. She doesn't miss the expectations
 		1. It was never thank you, it was always why didn't you do more?
 7. Favorite Holiday
-	1. The great bubbling at the beginning of spring, when the frost thaws and the first big gas bubble breaks free. 
+	1. [The great bubbling](/FATE_in_the_BAWG/culture/The_great_bubbling.html) at the beginning of spring, when the frost thaws and the first big gas bubble breaks free.
 	2. Bubble popping competition for the kids
+8. Piercing from [Session10_Scenario2_Session3](/FATE_in_the_BAWG/_session_notes/Arc_1/Scenario_2/2026_02_08_Session10_Scenario2_Session3.html): Snake half ring in her eyebrow

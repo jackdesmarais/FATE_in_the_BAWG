@@ -27,13 +27,15 @@ layout: PC
 1. When emotions are high, channeling replaces craft
 2. When someone recognizes me, reputation replaces provoke
 3. (When someone recognizes me, reputation replaces rapport)
+4. Stone bending: You can shape earth and stone with your mind, however the stone must be wet, and your body starts transforming into what you shape (this produces stress/consequences as the action scales).
 ## Stress/consequences
 Physical \[1] \[2] \
 Mental \[1] \[2] \
 Corruption \[1] \[2] \[3] \
 +2 mild: \
 +4 Moderate: \
-+6 Severe: 
++6 Severe:  \
++1 debt
 
 ## Skills
 
@@ -67,7 +69,7 @@ Corruption \[1] \[2] \[3] \
 4. What is your biggest red flag for a first date?
 	1. dissing the party
 5. Person to get dinner with
-	1. Nanny: His Nanny as a child before ~7. The only one in the home who cared about him specifically. She didn't get angry at him for blowing stuff up but tried to guide and support him. But she just disappeared one day. Never knew her real name. 
+	1. [Nanny](/FATE_in_the_BAWG/NPCs/Nanny.html): His Nanny as a child before ~7. The only one in the home who cared about him specifically. She didn't get angry at him for blowing stuff up but tried to guide and support him. But she just disappeared one day. Never knew her real name.
 6. Hobby - Boom!
 7. His pet was a wild [mouse-sized lizard](/FATE_in_the_BAWG/creatures/Wawl_Skink.html)
     1. They are pests!
@@ -77,4 +79,8 @@ Corruption \[1] \[2] \[3] \
 	1. Doesn't miss anything except, on occasion when his mother was feeling well enough to get out of bed and her icy demeanor would melt enough for her to say I'm proud of you 
 	2. Misses the least: Feeling the need to tiptoe around his own home. Still walks quietly in the common area and has to remind himself it's no longer necessary
 9. Favorite holiday
-	1. Chrystalis the day after the shortest day of the year everyone goes to watch the sunrise reflect off the crystal of the buildings. Families gather together to reflect on the year. This was the one time a year when his family would gather together in a moment of peace.
+	1. [Chrystalis](/FATE_in_the_BAWG/culture/Chrystalis.html) the day after the shortest day of the year everyone goes to watch the sunrise reflect off the crystal of the buildings. Families gather together to reflect on the year. This was the one time a year when his family would gather together in a moment of peace.
+10. What is the “in” style for clothing where you are from? What is the style one generation out of date? e.g. What is their skinny jeans and uggs? Which do you wear?
+	1. Out of style look for grungy skater types is overalls calling out to [The Drifts](/FATE_in_the_BAWG/locations/The_Drifts.html)
+	2. This is what leo wears, soot-y mechanic overalls
+11. Piercing from [Session10_Scenario2_Session3](/FATE_in_the_BAWG/_session_notes/Arc_1/Scenario_2/2026_02_08_Session10_Scenario2_Session3.html): Black ring in his inner ear fold
