@@ -1,6 +1,7 @@
 ---
 title: Light realm
 layout: default
+parent: Spiritual Realms
 ---
 
 # Light realm

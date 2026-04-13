@@ -1,6 +1,7 @@
 ---
 title: Karst realm
 layout: default
+parent: Spiritual Realms
 ---
 
 # Karst

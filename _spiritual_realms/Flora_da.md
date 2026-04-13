@@ -1,6 +1,7 @@
 ---
 title: Flora_da
 layout: default
+parent: Spiritual Realms
 ---
 
 # Flora-Da

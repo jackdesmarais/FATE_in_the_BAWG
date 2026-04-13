@@ -1,6 +1,7 @@
 ---
 title: Bog
 layout: default
+parent: Spiritual Realms
 ---
 # Bog
 The realm channeled by [Lawrel Sundew](/FATE_in_the_BAWG/PCs/lawrel_sundew.html).

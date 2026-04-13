@@ -1,6 +1,7 @@
 ---
 title: Fire realm
 layout: default
+parent: Spiritual Realms
 ---
 
 # Fire realm

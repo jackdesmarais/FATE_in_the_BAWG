@@ -1,6 +1,7 @@
 ---
 title: Confectionary Realm
 layout: default
+parent: Spiritual Realms
 ---
 
 # Confectionary

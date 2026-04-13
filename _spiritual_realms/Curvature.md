@@ -1,6 +1,7 @@
 ---
 title: Curvature
 layout: default
+parent: Spiritual Realms
 ---
 
 # Curvature

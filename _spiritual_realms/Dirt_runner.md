@@ -1,6 +1,7 @@
 ---
 title: Dirt_runner
 layout: default
+parent: Spiritual Realms
 ---
 
 # Dirt runner

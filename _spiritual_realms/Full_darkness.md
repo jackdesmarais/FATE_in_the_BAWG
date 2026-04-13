@@ -1,6 +1,7 @@
 ---
 title: Full darkness
 layout: default
+parent: Spiritual Realms
 ---
 
 # Full darkness

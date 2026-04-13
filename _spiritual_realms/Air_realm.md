@@ -1,6 +1,7 @@
 ---
 title: Air_realm
 layout: default
+parent: Spiritual Realms
 ---
 
 # Air realm

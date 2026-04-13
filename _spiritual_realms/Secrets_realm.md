@@ -1,6 +1,7 @@
 ---
 title: Secrets realm
 layout: default
+parent: Spiritual Realms
 ---
 
 # Secrets
