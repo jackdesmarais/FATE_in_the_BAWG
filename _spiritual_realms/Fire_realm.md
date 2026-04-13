@@ -1,5 +1,5 @@
 ---
-title: Fire_realm
+title: Fire realm
 layout: default
 ---
 

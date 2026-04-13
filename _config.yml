@@ -40,6 +40,9 @@ collections:
   items:
     permalink: "/:collection/:path.html"
     output: true
+  magic:
+    permalink: "/:collection/:path.html"
+    output: true
 
 just_the_docs:
   # Define which collections are used in just-the-docs
@@ -92,6 +95,11 @@ just_the_docs:
       search_exclude: false
     items:
       name: Items
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false
+    magic:
+      name: Magic
       nav_exclude: false
       nav_fold: true
       search_exclude: false

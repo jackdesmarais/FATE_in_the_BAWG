@@ -1,5 +1,5 @@
 ---
-title: Light_realm
+title: Light realm
 layout: default
 ---
 
