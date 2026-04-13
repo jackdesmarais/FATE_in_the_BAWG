@@ -84,3 +84,5 @@ Corruption \[1] \[2] \[3] \
 	1. Out of style look for grungy skater types is overalls calling out to [The Drifts](/FATE_in_the_BAWG/locations/The_Drifts.html)
 	2. This is what leo wears, soot-y mechanic overalls
 11. Piercing from [Session10_Scenario2_Session3](/FATE_in_the_BAWG/_session_notes/Arc_1/Scenario_2/2026_02_08_Session10_Scenario2_Session3.html): Black ring in his inner ear fold
+12. Signature drink: Sweetened Chewry essence with a splash of soda water — a fruit that tastes like if cherry-colored sparkles had a flavor
+13. Best lunch: Biscuits (somewhere between gingerbread and shortbread but with salt on top), spread with Chewry and peanut butter as a sandwich

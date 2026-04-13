@@ -80,3 +80,5 @@ Corruption \[1] \[2] \[3] \
 	1. [The great bubbling](/FATE_in_the_BAWG/culture/The_great_bubbling.html) at the beginning of spring, when the frost thaws and the first big gas bubble breaks free.
 	2. Bubble popping competition for the kids
 8. Piercing from [Session10_Scenario2_Session3](/FATE_in_the_BAWG/_session_notes/Arc_1/Scenario_2/2026_02_08_Session10_Scenario2_Session3.html): Snake half ring in her eyebrow
+9. Signature drink: Fernet, absinthe, chartreuse — the earthier the better
+10. Best lunch: Hearty foraged mushroom stew [Morning Glowria Sundew](/FATE_in_the_BAWG/NPCs/Morning_Glowria_Sundew.html) used to make — now just snacking on candy from [Taffy's](/FATE_in_the_BAWG/locations/Taffys_Tawfees.html) shop
