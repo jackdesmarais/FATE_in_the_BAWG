@@ -15,7 +15,7 @@ NPCs:
 - name: Sed Strongsteel
   location:
     - Cwahhhsahhhnt
-	- Maggie's Marvels
+    - Maggie's Marvels
 - name: Elif Onrall
   location:
     - Cwahhhsahhhnt

@@ -19,11 +19,11 @@ NPCs:
 - name: Magda Morgantha
   location:
     - Maggie's Marvels
-	- Chthonian Peace Faction Warehouse
+    - Chthonian Peace Faction Warehouse
 - name: Perihild Longstrider
   location:
     - Maggie's Marvels
-	- Chthonian Peace Faction Warehouse
+    - Chthonian Peace Faction Warehouse
 - name: Hakan Grlenn
   location:
     - Chthonian Peace Faction Warehouse
