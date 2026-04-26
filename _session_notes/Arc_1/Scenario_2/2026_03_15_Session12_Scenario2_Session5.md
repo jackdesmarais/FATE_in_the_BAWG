@@ -15,6 +15,19 @@ players:
   character: Siren Mirawg
 - name: Jack Zuckerman
   character: Diwmm
+NPCs:
+- name: Elif Onrall
+  location:
+    - Cwahhhsahhhnt
+- name: Bernadett Sterkins
+  location:
+    - Cwahhhsahhhnt
+- name: Jed Huckleberry
+  location:
+    - Cwahhhsahhhnt
+- name: Sed Strongsteel
+  location:
+    - Cwahhhsahhhnt
 date: 2026-03-15
 ---
 

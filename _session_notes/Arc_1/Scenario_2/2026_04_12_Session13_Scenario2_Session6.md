@@ -11,6 +11,17 @@ players:
   character: Taffy Tawfee
 - name: Sarah
   character: Lawrel Sundew
+NPCs:
+- name: Sed Strongsteel
+  location:
+    - Cwahhhsahhhnt
+	- Maggie's Marvels
+- name: Elif Onrall
+  location:
+    - Cwahhhsahhhnt
+- name: Raoul
+  location:
+    - Cwahhhsahhhnt
 date: 2026-04-12
 ---
 
