@@ -86,3 +86,5 @@ Corruption \[1] \[2] \[3] \
 11. Piercing from [Session10_Scenario2_Session3](/FATE_in_the_BAWG/_session_notes/Arc_1/Scenario_2/2026_02_08_Session10_Scenario2_Session3.html): Black ring in his inner ear fold
 12. Signature drink: Sweetened Chewry essence with a splash of soda water — a fruit that tastes like if cherry-colored sparkles had a flavor
 13. Best lunch: Biscuits (somewhere between gingerbread and shortbread but with salt on top), spread with Chewry and peanut butter as a sandwich
+14. Have you ever mistakenly wildly over or under ordered something? How much and of what?
+	1. Bought [Theodosia](/FATE_in_the_BAWG/NPCs/Theodosia.html) (a past crush who lived nearby) flowers from a local shop. Got her literally all the flowers from the shop.

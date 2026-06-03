@@ -76,3 +76,5 @@ Corruption \[1] \[2] \[3] \
 7. Piercing from [Session10_Scenario2_Session3](/FATE_in_the_BAWG/_session_notes/Arc_1/Scenario_2/2026_02_08_Session10_Scenario2_Session3.html): Plain stud in one ear lobe
 8. Signature drink: Apple and pumpkin pie spice essence with a caramel rim
 9. Best lunch: A croque monsieur (basically French toast as a sandwich)
+10. Have you ever mistakenly wildly over or under ordered something? How much and of what?
+	1. Ordered wildly too much liquid smoke for making bacon and smoke flavored candy. For a long while she was repeatedly launching smoke flavored candies to use it up.
