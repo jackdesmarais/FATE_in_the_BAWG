@@ -30,6 +30,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: false
+          args: --base https://jackdesmarais.github.io --verbose --no-progress './**/*.md'
 
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0
