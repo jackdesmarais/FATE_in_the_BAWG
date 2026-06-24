@@ -21,7 +21,7 @@ You are attuned to a specific concept in how it interacts with the world. For ea
 
 You use normal skills for these actions, defaulting to Attune \[concept]. You can take one resonance to add a level of [Scale](/FATE_in_the_BAWG/subsystems/Scale.html) to these actions.
 
-If the [spiritual realm](/FATE_in_the_BAWG/magic/Spiritual_realms.html) you connect to hasn't been described yet, make it.
+If the [spiritual realm](/FATE_in_the_BAWG/spiritual_realms/Spiritual_realms.html) you connect to hasn't been described yet, make it.
 
 ### Inspiration
 Mage the Awakening \

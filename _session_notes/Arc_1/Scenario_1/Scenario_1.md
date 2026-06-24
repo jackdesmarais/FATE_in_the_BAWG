@@ -35,5 +35,5 @@ players:
 - [X] Profit (non-monetary)!
 
 # Conclusion
-The group convinced [Karst](/FATE_in_the_BAWG/NPCs/Karst.html) to allow them to seal off the caves and integrate [Karst](/FATE_in_the_BAWG/NPCs/Karst.html) into the wider community by establishing a spelunking club. Construction on [Pulley tower](/FATE_in_the_BAWG/locations/Pulley_tower.html) can continue. As part of the deal [Leow](/FATE_in_the_BAWG/PCs/Leow_Wind.html) made a bargain with [Karst](/FATE_in_the_BAWG/NPCs/Karst.html) to give [Karst](/FATE_in_the_BAWG/NPCs/Karst.html) a foot hold in his mind. Th
+The group convinced [Karst](/FATE_in_the_BAWG/NPCs/Karst.html) to allow them to seal off the caves and integrate [Karst](/FATE_in_the_BAWG/NPCs/Karst.html) into the wider community by establishing a spelunking club. Construction on [Pulley tower](/FATE_in_the_BAWG/locations/Pulley_tower.html) can continue. As part of the deal [Leow](/FATE_in_the_BAWG/PCs/leow_wind.html) made a bargain with [Karst](/FATE_in_the_BAWG/NPCs/Karst.html) to give [Karst](/FATE_in_the_BAWG/NPCs/Karst.html) a foot hold in his mind. Th
 

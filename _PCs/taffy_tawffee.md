@@ -73,7 +73,7 @@ Corruption \[1] \[2] \[3] \
 	2. Misses the least her family weren't candy makers for the people, always wanted to make fancy things. Their candy went on display or to fancy holiday parties, she wanted to connect with the people
 6. Favorite holiday
 	1. In Autum it gets windy in [Coco Cove](/FATE_in_the_BAWG/locations/Coco_Cove.html). this kicks up fragrance from everyone's candy making. The exhaust from the cotton candy factory colors the sunsets pink. People do a [big candy expo](/FATE_in_the_BAWG/culture/Big_Candy_Expo.html). Her family would make sugar sculpture.
-7. Piercing from [Session10_Scenario2_Session3](/FATE_in_the_BAWG/_session_notes/Arc_1/Scenario_2/2026_02_08_Session10_Scenario2_Session3.html): Plain stud in one ear lobe
+7. Piercing from [Session10_Scenario2_Session3](/FATE_in_the_BAWG/session_notes/Arc_1/Scenario_2/2026_02_08_Session10_Scenario2_Session3.html): Plain stud in one ear lobe
 8. Signature drink: Apple and pumpkin pie spice essence with a caramel rim
 9. Best lunch: A croque monsieur (basically French toast as a sandwich)
 10. Have you ever mistakenly wildly over or under ordered something? How much and of what?

@@ -19,7 +19,7 @@ You can summon parts of your realm into the world. This is generally a less than
 
 Channeling may also be used to produce temporary [Adaptations](/FATE_in_the_BAWG/magic/Adaptations.html) by directly dumping resonance into a target. This is an attack if they are unwilling or succeeds automatically if they are willing. This produces a consequence that represents a mutation. If you succeed on a channeling roll, you may define the adaptation that is produced, otherwise a different adaptation arises. The [Adaptation](/FATE_in_the_BAWG/magic/Adaptations.html) lasts as long as the consequence lasts; during the recovery the [Adaptation](/FATE_in_the_BAWG/magic/Adaptations.html) is gone but the side effects remain. This same strategy may be used to grant channeling ability to a new person. In either case, it can be made permanent at the expense of a point of refresh and a permanent aspect change.
 
-If the [spiritual realm](/FATE_in_the_BAWG/magic/Spiritual_realms.html) you connect to hasn't been described yet, make it.
+If the [spiritual realm](/FATE_in_the_BAWG/spiritual_realms/Spiritual_realms.html) you connect to hasn't been described yet, make it.
 
 ### Inspiration
 Evocation from Dresden Files Accelerated \

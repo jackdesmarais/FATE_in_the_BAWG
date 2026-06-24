@@ -48,11 +48,11 @@ We used a *slight* modification of the "A Spark In FATE Core" setting creation w
 4. The economy is non-monetized
 5. The population is focused in large urban centers separated by large areas of diverse wilderness
 6. There is a central government ([The BAWG](/FATE_in_the_BAWG/factions/The_BAWG.html)) run by delegations from each city state 
-7. Magic flows from connection to [The Spirit Realms](/FATE_in_the_BAWG/locations/The_Spirit_Realms.html)
+7. Magic flows from connection to [The Spirit Realms](/FATE_in_the_BAWG/spiritual_realms/Spiritual_realms.html)
 	1. Each realm brings a certain type of power
 8. Interaction with other realms increases your magical abilities but also changes you. 
 	1. Going to far risks transforming you into an avatar of the realm
-	2. Spirit realm avatars are partially ascended to [The Spirit Realms](/FATE_in_the_BAWG/locations/The_Spirit_Realms.html) but form a bridge increasing the local alignment with that realm
+	2. Spirit realm avatars are partially ascended to [The Spirit Realms](/FATE_in_the_BAWG/spiritual_realms/Spiritual_realms.html) but form a bridge increasing the local alignment with that realm
 9. Any one can do magic but it's a skill you need to train. Most people know the type of magic their family/area use, but you can learn others
 10. Humans may have adaptations based on the spirit realm associated with where they grew up
 
